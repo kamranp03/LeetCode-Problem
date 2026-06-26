@@ -1,0 +1,256 @@
+number,title,slug,link,language,runtime,memory,file
+1,Two Sum,two-sum,https://leetcode.com/problems/two-sum/,cpp,3 ms,14.8 MB,0001-two-sum.cpp
+3,Longest Substring Without Repeating Characters,longest-substring-without-repeating-characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,cpp,0 ms,12.4 MB,0003-longest-substring-without-repeating-characters.cpp
+7,Reverse Integer,reverse-integer,https://leetcode.com/problems/reverse-integer/,cpp,0 ms,8.7 MB,0007-reverse-integer.cpp
+9,Palindrome Number,palindrome-number,https://leetcode.com/problems/palindrome-number/,cpp,4 ms,8.6 MB,0009-palindrome-number.cpp
+11,Container With Most Water,container-with-most-water,https://leetcode.com/problems/container-with-most-water/,cpp,0 ms,62.8 MB,0011-container-with-most-water.cpp
+13,Roman to Integer,roman-to-integer,https://leetcode.com/problems/roman-to-integer/,cpp,0 ms,10.1 MB,0013-roman-to-integer.cpp
+15,3Sum,3sum,https://leetcode.com/problems/3sum/,cpp,35 ms,29 MB,0015-3sum.cpp
+16,3Sum Closest,3sum-closest,https://leetcode.com/problems/3sum-closest/,cpp,15 ms,14.1 MB,0016-3sum-closest.cpp
+17,Letter Combinations of a Phone Number,letter-combinations-of-a-phone-number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,cpp,0 ms,9.4 MB,0017-letter-combinations-of-a-phone-number.cpp
+19,Remove Nth Node From End of List,remove-nth-node-from-end-of-list,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,cpp,0 ms,14.9 MB,0019-remove-nth-node-from-end-of-list.cpp
+20,Valid Parentheses,valid-parentheses,https://leetcode.com/problems/valid-parentheses/,cpp,0 ms,8.7 MB,0020-valid-parentheses.cpp
+21,Merge Two Sorted Lists,merge-two-sorted-lists,https://leetcode.com/problems/merge-two-sorted-lists/,cpp,0 ms,19.4 MB,0021-merge-two-sorted-lists.cpp
+22,Generate Parentheses,generate-parentheses,https://leetcode.com/problems/generate-parentheses/,cpp,4 ms,16.4 MB,0022-generate-parentheses.cpp
+26,Remove Duplicates from Sorted Array,remove-duplicates-from-sorted-array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,cpp,0 ms,22.8 MB,0026-remove-duplicates-from-sorted-array.cpp
+27,Remove Element,remove-element,https://leetcode.com/problems/remove-element/,cpp,0 ms,11.6 MB,0027-remove-element.cpp
+28,Find the Index of the First Occurrence in a String,find-the-index-of-the-first-occurrence-in-a-string,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/,cpp,0 ms,9.1 MB,0028-find-the-index-of-the-first-occurrence-in-a-string.cpp
+29,Divide Two Integers,divide-two-integers,https://leetcode.com/problems/divide-two-integers/,cpp,0 ms,8.4 MB,0029-divide-two-integers.cpp
+31,Next Permutation,next-permutation,https://leetcode.com/problems/next-permutation/,cpp,0 ms,15.7 MB,0031-next-permutation.cpp
+33,Search in Rotated Sorted Array,search-in-rotated-sorted-array,https://leetcode.com/problems/search-in-rotated-sorted-array/,cpp,0 ms,15.1 MB,0033-search-in-rotated-sorted-array.cpp
+35,Search Insert Position,search-insert-position,https://leetcode.com/problems/search-insert-position/,cpp,0 ms,13.7 MB,0035-search-insert-position.cpp
+37,Sudoku Solver,sudoku-solver,https://leetcode.com/problems/sudoku-solver/,cpp,229 ms,8.7 MB,0037-sudoku-solver.cpp
+39,Combination Sum,combination-sum,https://leetcode.com/problems/combination-sum/,cpp,0 ms,14 MB,0039-combination-sum.cpp
+46,Permutations,permutations,https://leetcode.com/problems/permutations/,cpp,0 ms,10.6 MB,0046-permutations.cpp
+51,N-Queens,n-queens,https://leetcode.com/problems/n-queens/,cpp,0 ms,10.2 MB,0051-n-queens.cpp
+53,Maximum Subarray,maximum-subarray,https://leetcode.com/problems/maximum-subarray/,cpp,0 ms,71.6 MB,0053-maximum-subarray.cpp
+58,Length of Last Word,length-of-last-word,https://leetcode.com/problems/length-of-last-word/,cpp,0 ms,8.8 MB,0058-length-of-last-word.cpp
+61,Rotate List,rotate-list,https://leetcode.com/problems/rotate-list/,cpp,0 ms,16.5 MB,0061-rotate-list.cpp
+66,Plus One,plus-one,https://leetcode.com/problems/plus-one/,cpp,0 ms,11.6 MB,0066-plus-one.cpp
+67,Add Binary,add-binary,https://leetcode.com/problems/add-binary/,cpp,0 ms,9 MB,0067-add-binary.cpp
+69,Sqrt(x),sqrtx,https://leetcode.com/problems/sqrtx/,cpp,0 ms,8.5 MB,0069-sqrtx.cpp
+70,Climbing Stairs,climbing-stairs,https://leetcode.com/problems/climbing-stairs/,cpp,0 ms,7.9 MB,0070-climbing-stairs.cpp
+75,Sort Colors,sort-colors,https://leetcode.com/problems/sort-colors/,cpp,0 ms,11.8 MB,0075-sort-colors.cpp
+76,Minimum Window Substring,minimum-window-substring,https://leetcode.com/problems/minimum-window-substring/,cpp,187 ms,12 MB,0076-minimum-window-substring.cpp
+79,Word Search,word-search,https://leetcode.com/problems/word-search/,cpp,191 ms,10.3 MB,0079-word-search.cpp
+82,Remove Duplicates from Sorted List II,remove-duplicates-from-sorted-list-ii,https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/,cpp,0 ms,16.2 MB,0082-remove-duplicates-from-sorted-list-ii.cpp
+83,Remove Duplicates from Sorted List,remove-duplicates-from-sorted-list,https://leetcode.com/problems/remove-duplicates-from-sorted-list/,cpp,0 ms,16.2 MB,0083-remove-duplicates-from-sorted-list.cpp
+85,Maximal Rectangle,maximal-rectangle,https://leetcode.com/problems/maximal-rectangle/,cpp,0 ms,18 MB,0085-maximal-rectangle.cpp
+88,Merge Sorted Array,merge-sorted-array,https://leetcode.com/problems/merge-sorted-array/,cpp,0 ms,12.2 MB,0088-merge-sorted-array.cpp
+94,Binary Tree Inorder Traversal,binary-tree-inorder-traversal,https://leetcode.com/problems/binary-tree-inorder-traversal/,cpp,0 ms,13.4 MB,0094-binary-tree-inorder-traversal.cpp
+100,Same Tree,same-tree,https://leetcode.com/problems/same-tree/,cpp,0 ms,12.7 MB,0100-same-tree.cpp
+101,Symmetric Tree,symmetric-tree,https://leetcode.com/problems/symmetric-tree/,cpp,0 ms,18.5 MB,0101-symmetric-tree.cpp
+102,Binary Tree Level Order Traversal,binary-tree-level-order-traversal,https://leetcode.com/problems/binary-tree-level-order-traversal/,cpp,2 ms,17.1 MB,0102-binary-tree-level-order-traversal.cpp
+110,Balanced Binary Tree,balanced-binary-tree,https://leetcode.com/problems/balanced-binary-tree/,cpp,0 ms,23.1 MB,0110-balanced-binary-tree.cpp
+121,Best Time to Buy and Sell Stock,best-time-to-buy-and-sell-stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,cpp,0 ms,97.3 MB,0121-best-time-to-buy-and-sell-stock.cpp
+122,Best Time to Buy and Sell Stock II,best-time-to-buy-and-sell-stock-ii,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,cpp,0 ms,20.2 MB,0122-best-time-to-buy-and-sell-stock-ii.cpp
+125,Valid Palindrome,valid-palindrome,https://leetcode.com/problems/valid-palindrome/,cpp,3 ms,10.2 MB,0125-valid-palindrome.cpp
+128,Longest Consecutive Sequence,longest-consecutive-sequence,https://leetcode.com/problems/longest-consecutive-sequence/,cpp,0 ms,88.9 MB,0128-longest-consecutive-sequence.cpp
+136,Single Number,single-number,https://leetcode.com/problems/single-number/,cpp,0 ms,20.7 MB,0136-single-number.cpp
+141,Linked List Cycle,linked-list-cycle,https://leetcode.com/problems/linked-list-cycle/,cpp,6 ms,11.9 MB,0141-linked-list-cycle.cpp
+142,Linked List Cycle II,linked-list-cycle-ii,https://leetcode.com/problems/linked-list-cycle-ii/,cpp,10 ms,11.4 MB,0142-linked-list-cycle-ii.cpp
+144,Binary Tree Preorder Traversal,binary-tree-preorder-traversal,https://leetcode.com/problems/binary-tree-preorder-traversal/,cpp,0 ms,13.3 MB,0144-binary-tree-preorder-traversal.cpp
+145,Binary Tree Postorder Traversal,binary-tree-postorder-traversal,https://leetcode.com/problems/binary-tree-postorder-traversal/,cpp,0 ms,13.3 MB,0145-binary-tree-postorder-traversal.cpp
+152,Maximum Product Subarray,maximum-product-subarray,https://leetcode.com/problems/maximum-product-subarray/,cpp,0 ms,17.7 MB,0152-maximum-product-subarray.cpp
+167,Two Sum II - Input Array Is Sorted,two-sum-ii-input-array-is-sorted,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,cpp,0 ms,19.5 MB,0167-two-sum-ii-input-array-is-sorted.cpp
+169,Majority Element,majority-element,https://leetcode.com/problems/majority-element/,cpp,0 ms,28.2 MB,0169-majority-element.cpp
+182,Duplicate Emails,duplicate-emails,https://leetcode.com/problems/duplicate-emails/,mysql,370 ms,0.0B,0182-duplicate-emails.sql
+189,Rotate Array,rotate-array,https://leetcode.com/problems/rotate-array/,cpp,0 ms,30.3 MB,0189-rotate-array.cpp
+190,Reverse Bits,reverse-bits,https://leetcode.com/problems/reverse-bits/,cpp,0 ms,8.2 MB,0190-reverse-bits.cpp
+200,Number of Islands,number-of-islands,https://leetcode.com/problems/number-of-islands/,cpp,24 ms,16.7 MB,0200-number-of-islands.cpp
+202,Happy Number,happy-number,https://leetcode.com/problems/happy-number/,cpp,0 ms,7.9 MB,0202-happy-number.cpp
+206,Reverse Linked List,reverse-linked-list,https://leetcode.com/problems/reverse-linked-list/,cpp,0 ms,13.4 MB,0206-reverse-linked-list.cpp
+207,Course Schedule,course-schedule,https://leetcode.com/problems/course-schedule/,cpp,4 ms,19.2 MB,0207-course-schedule.cpp
+209,Minimum Size Subarray Sum,minimum-size-subarray-sum,https://leetcode.com/problems/minimum-size-subarray-sum/,cpp,0 ms,32 MB,0209-minimum-size-subarray-sum.cpp
+210,Course Schedule II,course-schedule-ii,https://leetcode.com/problems/course-schedule-ii/,cpp,4 ms,18.7 MB,0210-course-schedule-ii.cpp
+226,Invert Binary Tree,invert-binary-tree,https://leetcode.com/problems/invert-binary-tree/,cpp,0 ms,12.5 MB,0226-invert-binary-tree.cpp
+229,Majority Element II,majority-element-ii,https://leetcode.com/problems/majority-element-ii/,cpp,0 ms,23.5 MB,0229-majority-element-ii.cpp
+234,Palindrome Linked List,palindrome-linked-list,https://leetcode.com/problems/palindrome-linked-list/,cpp,0 ms,118.1 MB,0234-palindrome-linked-list.cpp
+236,Lowest Common Ancestor of a Binary Tree,lowest-common-ancestor-of-a-binary-tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,cpp,59 ms,44 MB,0236-lowest-common-ancestor-of-a-binary-tree.cpp
+238,Product of Array Except Self,product-of-array-except-self,https://leetcode.com/problems/product-of-array-except-self/,cpp,3 ms,40.2 MB,0238-product-of-array-except-self.cpp
+242,Valid Anagram,valid-anagram,https://leetcode.com/problems/valid-anagram/,cpp,2 ms,10 MB,0242-valid-anagram.cpp
+263,Ugly Number,ugly-number,https://leetcode.com/problems/ugly-number/,cpp,0 ms,7.9 MB,0263-ugly-number.cpp
+268,Missing Number,missing-number,https://leetcode.com/problems/missing-number/,cpp,0 ms,21.8 MB,0268-missing-number.cpp
+283,Move Zeroes,move-zeroes,https://leetcode.com/problems/move-zeroes/,cpp,0 ms,23.8 MB,0283-move-zeroes.cpp
+287,Find the Duplicate Number,find-the-duplicate-number,https://leetcode.com/problems/find-the-duplicate-number/,cpp,67 ms,87.8 MB,0287-find-the-duplicate-number.cpp
+344,Reverse String,reverse-string,https://leetcode.com/problems/reverse-string/,cpp,0 ms,27.1 MB,0344-reverse-string.cpp
+349,Intersection of Two Arrays,intersection-of-two-arrays,https://leetcode.com/problems/intersection-of-two-arrays/,cpp,0 ms,14.7 MB,0349-intersection-of-two-arrays.cpp
+401,Binary Watch,binary-watch,https://leetcode.com/problems/binary-watch/,cpp,0 ms,9.6 MB,0401-binary-watch.cpp
+424,Longest Repeating Character Replacement,longest-repeating-character-replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,cpp,34 ms,10.8 MB,0424-longest-repeating-character-replacement.cpp
+451,Sort Characters By Frequency,sort-characters-by-frequency,https://leetcode.com/problems/sort-characters-by-frequency/,cpp,0 ms,11.7 MB,0451-sort-characters-by-frequency.cpp
+455,Assign Cookies,assign-cookies,https://leetcode.com/problems/assign-cookies/,cpp,8 ms,44.8 MB,0455-assign-cookies.cpp
+474,Ones and Zeroes,ones-and-zeroes,https://leetcode.com/problems/ones-and-zeroes/,cpp,202 ms,39.5 MB,0474-ones-and-zeroes.cpp
+496,Next Greater Element I,next-greater-element-i,https://leetcode.com/problems/next-greater-element-i/,cpp,0 ms,12.8 MB,0496-next-greater-element-i.cpp
+509,Fibonacci Number,fibonacci-number,https://leetcode.com/problems/fibonacci-number/,cpp,0 ms,7.8 MB,0509-fibonacci-number.cpp
+540,Single Element in a Sorted Array,single-element-in-a-sorted-array,https://leetcode.com/problems/single-element-in-a-sorted-array/,cpp,0 ms,26.3 MB,0540-single-element-in-a-sorted-array.cpp
+560,Subarray Sum Equals K,subarray-sum-equals-k,https://leetcode.com/problems/subarray-sum-equals-k/,cpp,2502 ms,34.4 MB,0560-subarray-sum-equals-k.cpp
+581,Shortest Unsorted Continuous Subarray,shortest-unsorted-continuous-subarray,https://leetcode.com/problems/shortest-unsorted-continuous-subarray/,cpp,0 ms,30.5 MB,0581-shortest-unsorted-continuous-subarray.cpp
+693,Binary Number with Alternating Bits,binary-number-with-alternating-bits,https://leetcode.com/problems/binary-number-with-alternating-bits/,cpp,0 ms,7.6 MB,0693-binary-number-with-alternating-bits.cpp
+696,Count Binary Substrings,count-binary-substrings,https://leetcode.com/problems/count-binary-substrings/,cpp,0 ms,13 MB,0696-count-binary-substrings.cpp
+712,Minimum ASCII Delete Sum for Two Strings,minimum-ascii-delete-sum-for-two-strings,https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/,cpp,15 ms,18.3 MB,0712-minimum-ascii-delete-sum-for-two-strings.cpp
+717,1-bit and 2-bit Characters,1-bit-and-2-bit-characters,https://leetcode.com/problems/1-bit-and-2-bit-characters/,cpp,0 ms,13.1 MB,0717-1-bit-and-2-bit-characters.cpp
+724,Find Pivot Index,find-pivot-index,https://leetcode.com/problems/find-pivot-index/,cpp,0 ms,35.8 MB,0724-find-pivot-index.cpp
+733,Flood Fill,flood-fill,https://leetcode.com/problems/flood-fill/,cpp,0 ms,18 MB,0733-flood-fill.cpp
+744,Find Smallest Letter Greater Than Target,find-smallest-letter-greater-than-target,https://leetcode.com/problems/find-smallest-letter-greater-than-target/,cpp,0 ms,19.6 MB,0744-find-smallest-letter-greater-than-target.cpp
+756,Pyramid Transition Matrix,pyramid-transition-matrix,https://leetcode.com/problems/pyramid-transition-matrix/,cpp,0 ms,157.8 MB,0756-pyramid-transition-matrix.cpp
+757,Set Intersection Size At Least Two,set-intersection-size-at-least-two,https://leetcode.com/problems/set-intersection-size-at-least-two/,cpp,0 ms,21.7 MB,0757-set-intersection-size-at-least-two.cpp
+761,Special Binary String,special-binary-string,https://leetcode.com/problems/special-binary-string/,cpp,0 ms,9.5 MB,0761-special-binary-string.cpp
+762,Prime Number of Set Bits in Binary Representation,prime-number-of-set-bits-in-binary-representation,https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/,cpp,3 ms,8.3 MB,0762-prime-number-of-set-bits-in-binary-representation.cpp
+799,Champagne Tower,champagne-tower,https://leetcode.com/problems/champagne-tower/,cpp,0 ms,8.8 MB,0799-champagne-tower.cpp
+840,Magic Squares In Grid,magic-squares-in-grid,https://leetcode.com/problems/magic-squares-in-grid/,cpp,0 ms,11.6 MB,0840-magic-squares-in-grid.cpp
+852,Peak Index in a Mountain Array,peak-index-in-a-mountain-array,https://leetcode.com/problems/peak-index-in-a-mountain-array/,cpp,0 ms,63.4 MB,0852-peak-index-in-a-mountain-array.cpp
+865,Smallest Subtree with all the Deepest Nodes,smallest-subtree-with-all-the-deepest-nodes,https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/,cpp,0 ms,16.1 MB,0865-smallest-subtree-with-all-the-deepest-nodes.cpp
+868,Binary Gap,binary-gap,https://leetcode.com/problems/binary-gap/,cpp,0 ms,7.9 MB,0868-binary-gap.cpp
+876,Middle of the Linked List,middle-of-the-linked-list,https://leetcode.com/problems/middle-of-the-linked-list/,cpp,0 ms,10 MB,0876-middle-of-the-linked-list.cpp
+877,Stone Game,stone-game,https://leetcode.com/problems/stone-game/,cpp,0 ms,10.3 MB,0877-stone-game.cpp
+904,Fruit Into Baskets,fruit-into-baskets,https://leetcode.com/problems/fruit-into-baskets/,cpp,43 ms,84.9 MB,0904-fruit-into-baskets.cpp
+918,Maximum Sum Circular Subarray,maximum-sum-circular-subarray,https://leetcode.com/problems/maximum-sum-circular-subarray/,cpp,0 ms,43.7 MB,0918-maximum-sum-circular-subarray.cpp
+921,Minimum Add to Make Parentheses Valid,minimum-add-to-make-parentheses-valid,https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/,cpp,0 ms,8.3 MB,0921-minimum-add-to-make-parentheses-valid.cpp
+929,Unique Email Addresses,unique-email-addresses,https://leetcode.com/problems/unique-email-addresses/,cpp,15 ms,20.6 MB,0929-unique-email-addresses.cpp
+941,Valid Mountain Array,valid-mountain-array,https://leetcode.com/problems/valid-mountain-array/,cpp,16 ms,26.1 MB,0941-valid-mountain-array.cpp
+944,Delete Columns to Make Sorted,delete-columns-to-make-sorted,https://leetcode.com/problems/delete-columns-to-make-sorted/,cpp,0 ms,15.6 MB,0944-delete-columns-to-make-sorted.cpp
+955,Delete Columns to Make Sorted II,delete-columns-to-make-sorted-ii,https://leetcode.com/problems/delete-columns-to-make-sorted-ii/,cpp,0 ms,12.8 MB,0955-delete-columns-to-make-sorted-ii.cpp
+960,Delete Columns to Make Sorted III,delete-columns-to-make-sorted-iii,https://leetcode.com/problems/delete-columns-to-make-sorted-iii/,cpp,0 ms,13.6 MB,0960-delete-columns-to-make-sorted-iii.cpp
+961,N-Repeated Element in Size 2N Array,n-repeated-element-in-size-2n-array,https://leetcode.com/problems/n-repeated-element-in-size-2n-array/,cpp,0 ms,28.5 MB,0961-n-repeated-element-in-size-2n-array.cpp
+977,Squares of a Sorted Array,squares-of-a-sorted-array,https://leetcode.com/problems/squares-of-a-sorted-array/,cpp,4 ms,31.8 MB,0977-squares-of-a-sorted-array.cpp
+994,Rotting Oranges,rotting-oranges,https://leetcode.com/problems/rotting-oranges/,cpp,0 ms,17.3 MB,0994-rotting-oranges.cpp
+1015,Smallest Integer Divisible by K,smallest-integer-divisible-by-k,https://leetcode.com/problems/smallest-integer-divisible-by-k/,cpp,0 ms,7.8 MB,1015-smallest-integer-divisible-by-k.cpp
+1018,Binary Prefix Divisible By 5,binary-prefix-divisible-by-5,https://leetcode.com/problems/binary-prefix-divisible-by-5/,cpp,0 ms,18.3 MB,1018-binary-prefix-divisible-by-5.cpp
+1022,Sum of Root To Leaf Binary Numbers,sum-of-root-to-leaf-binary-numbers,https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/,cpp,0 ms,17.4 MB,1022-sum-of-root-to-leaf-binary-numbers.cpp
+1123,Lowest Common Ancestor of Deepest Leaves,lowest-common-ancestor-of-deepest-leaves,https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/,cpp,0 ms,22 MB,1123-lowest-common-ancestor-of-deepest-leaves.cpp
+1161,Maximum Level Sum of a Binary Tree,maximum-level-sum-of-a-binary-tree,https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/,cpp,0 ms,109.6 MB,1161-maximum-level-sum-of-a-binary-tree.cpp
+1186,Maximum Subarray Sum with One Deletion,maximum-subarray-sum-with-one-deletion,https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/,cpp,0 ms,27.1 MB,1186-maximum-subarray-sum-with-one-deletion.cpp
+1189,Maximum Number of Balloons,maximum-number-of-balloons,https://leetcode.com/problems/maximum-number-of-balloons/,cpp,0 ms,9.1 MB,1189-maximum-number-of-balloons.cpp
+1200,Minimum Absolute Difference,minimum-absolute-difference,https://leetcode.com/problems/minimum-absolute-difference/,cpp,15 ms,36.7 MB,1200-minimum-absolute-difference.cpp
+1262,Greatest Sum Divisible by Three,greatest-sum-divisible-by-three,https://leetcode.com/problems/greatest-sum-divisible-by-three/,cpp,31 ms,42.5 MB,1262-greatest-sum-divisible-by-three.cpp
+1266,Minimum Time Visiting All Points,minimum-time-visiting-all-points,https://leetcode.com/problems/minimum-time-visiting-all-points/,cpp,0 ms,13.6 MB,1266-minimum-time-visiting-all-points.cpp
+1292,Maximum Side Length of a Square with Sum Less than or Equal to Threshold,maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold,https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/,cpp,0 ms,33 MB,1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.cpp
+1306,Jump Game III,jump-game-iii,https://leetcode.com/problems/jump-game-iii/,cpp,4 ms,40.9 MB,1306-jump-game-iii.cpp
+1339,Maximum Product of Splitted Binary Tree,maximum-product-of-splitted-binary-tree,https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/,cpp,0 ms,78.1 MB,1339-maximum-product-of-splitted-binary-tree.cpp
+1351,Count Negative Numbers in a Sorted Matrix,count-negative-numbers-in-a-sorted-matrix,https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/,cpp,0 ms,14 MB,1351-count-negative-numbers-in-a-sorted-matrix.cpp
+1356,Sort Integers by The Number of 1 Bits,sort-integers-by-the-number-of-1-bits,https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/,cpp,0 ms,14.3 MB,1356-sort-integers-by-the-number-of-1-bits.cpp
+1382,Balance a Binary Search Tree,balance-a-binary-search-tree,https://leetcode.com/problems/balance-a-binary-search-tree/,cpp,14 ms,65.8 MB,1382-balance-a-binary-search-tree.cpp
+1390,Four Divisors,four-divisors,https://leetcode.com/problems/four-divisors/,cpp,0 ms,16.1 MB,1390-four-divisors.cpp
+1391,Check if There is a Valid Path in a Grid,check-if-there-is-a-valid-path-in-a-grid,https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/,cpp,27 ms,71.7 MB,1391-check-if-there-is-a-valid-path-in-a-grid.cpp
+1404,Number of Steps to Reduce a Number in Binary Representation to One,number-of-steps-to-reduce-a-number-in-binary-representation-to-one,https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/,cpp,0 ms,8.9 MB,1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one.cpp
+1411,Number of Ways to Paint N × 3 Grid,number-of-ways-to-paint-n-3-grid,https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/,cpp,0 ms,7.7 MB,1411-number-of-ways-to-paint-n-3-grid.cpp
+1437,Check If All 1's Are at Least Length K Places Away,check-if-all-1s-are-at-least-length-k-places-away,https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/,cpp,0 ms,61.5 MB,1437-check-if-all-1s-are-at-least-length-k-places-away.cpp
+1458,Max Dot Product of Two Subsequences,max-dot-product-of-two-subsequences,https://leetcode.com/problems/max-dot-product-of-two-subsequences/,cpp,0 ms,15.3 MB,1458-max-dot-product-of-two-subsequences.cpp
+1461,Check If a String Contains All Binary Codes of Size K,check-if-a-string-contains-all-binary-codes-of-size-k,https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/,cpp,0 ms,119.3 MB,1461-check-if-a-string-contains-all-binary-codes-of-size-k.cpp
+1513,Number of Substrings With Only 1s,number-of-substrings-with-only-1s,https://leetcode.com/problems/number-of-substrings-with-only-1s/,cpp,0 ms,11.5 MB,1513-number-of-substrings-with-only-1s.cpp
+1523,Count Odd Numbers in an Interval Range,count-odd-numbers-in-an-interval-range,https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/,cpp,0 ms,7.9 MB,1523-count-odd-numbers-in-an-interval-range.cpp
+1526,Minimum Number of Increments on Subarrays to Form a Target Array,minimum-number-of-increments-on-subarrays-to-form-a-target-array,https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/,cpp,0 ms,77 MB,1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array.cpp
+1528,Shuffle String,shuffle-string,https://leetcode.com/problems/shuffle-string/,cpp,0 ms,18.9 MB,1528-shuffle-string.cpp
+1545,Find Kth Bit in Nth Binary String,find-kth-bit-in-nth-binary-string,https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/,cpp,0 ms,7.7 MB,1545-find-kth-bit-in-nth-binary-string.cpp
+1578,Minimum Time to Make Rope Colorful,minimum-time-to-make-rope-colorful,https://leetcode.com/problems/minimum-time-to-make-rope-colorful/,cpp,7 ms,99.8 MB,1578-minimum-time-to-make-rope-colorful.cpp
+1590,Make Sum Divisible by P,make-sum-divisible-by-p,https://leetcode.com/problems/make-sum-divisible-by-p/,cpp,69 ms,87.9 MB,1590-make-sum-divisible-by-p.cpp
+1611,Minimum One Bit Operations to Make Integers Zero,minimum-one-bit-operations-to-make-integers-zero,https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/,cpp,0 ms,8.2 MB,1611-minimum-one-bit-operations-to-make-integers-zero.cpp
+1625,Lexicographically Smallest String After Applying Operations,lexicographically-smallest-string-after-applying-operations,https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/,cpp,230 ms,116.3 MB,1625-lexicographically-smallest-string-after-applying-operations.cpp
+1653,Minimum Deletions to Make String Balanced,minimum-deletions-to-make-string-balanced,https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/,cpp,0 ms,25.6 MB,1653-minimum-deletions-to-make-string-balanced.cpp
+1680,Concatenation of Consecutive Binary Numbers,concatenation-of-consecutive-binary-numbers,https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/,cpp,44 ms,8 MB,1680-concatenation-of-consecutive-binary-numbers.cpp
+1689,Partitioning Into Minimum Number Of Deci-Binary Numbers,partitioning-into-minimum-number-of-deci-binary-numbers,https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/,cpp,0 ms,16.7 MB,1689-partitioning-into-minimum-number-of-deci-binary-numbers.cpp
+1716,Calculate Money in Leetcode Bank,calculate-money-in-leetcode-bank,https://leetcode.com/problems/calculate-money-in-leetcode-bank/,cpp,0 ms,7.9 MB,1716-calculate-money-in-leetcode-bank.cpp
+1749,Maximum Absolute Sum of Any Subarray,maximum-absolute-sum-of-any-subarray,https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/,cpp,0 ms,44.8 MB,1749-maximum-absolute-sum-of-any-subarray.cpp
+1752,Check if Array Is Sorted and Rotated,check-if-array-is-sorted-and-rotated,https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/,cpp,0 ms,11.1 MB,1752-check-if-array-is-sorted-and-rotated.cpp
+1833,Maximum Ice Cream Bars,maximum-ice-cream-bars,https://leetcode.com/problems/maximum-ice-cream-bars/,cpp,36 ms,80.3 MB,1833-maximum-ice-cream-bars.cpp
+1871,Jump Game VII,jump-game-vii,https://leetcode.com/problems/jump-game-vii/,cpp,9 ms,23.8 MB,1871-jump-game-vii.cpp
+1877,Minimize Maximum Pair Sum in Array,minimize-maximum-pair-sum-in-array,https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/,cpp,166 ms,100.1 MB,1877-minimize-maximum-pair-sum-in-array.cpp
+1895,Largest Magic Square,largest-magic-square,https://leetcode.com/problems/largest-magic-square/,cpp,4 ms,14.2 MB,1895-largest-magic-square.cpp
+1925,Count Square Sum Triples,count-square-sum-triples,https://leetcode.com/problems/count-square-sum-triples/,cpp,4 ms,7.9 MB,1925-count-square-sum-triples.cpp
+1929,Concatenation of Array,concatenation-of-array,https://leetcode.com/problems/concatenation-of-array/,cpp,0 ms,17.1 MB,1929-concatenation-of-array.cpp
+1930,Unique Length-3 Palindromic Subsequences,unique-length-3-palindromic-subsequences,https://leetcode.com/problems/unique-length-3-palindromic-subsequences/,cpp,149 ms,15.9 MB,1930-unique-length-3-palindromic-subsequences.cpp
+1970,Last Day Where You Can Still Cross,last-day-where-you-can-still-cross,https://leetcode.com/problems/last-day-where-you-can-still-cross/,cpp,0 ms,175.2 MB,1970-last-day-where-you-can-still-cross.cpp
+1975,Maximum Matrix Sum,maximum-matrix-sum,https://leetcode.com/problems/maximum-matrix-sum/,cpp,0 ms,39.1 MB,1975-maximum-matrix-sum.cpp
+1984,Minimum Difference Between Highest and Lowest of K Scores,minimum-difference-between-highest-and-lowest-of-k-scores,https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/,cpp,0 ms,17.3 MB,1984-minimum-difference-between-highest-and-lowest-of-k-scores.cpp
+2011,Final Value of Variable After Performing Operations,final-value-of-variable-after-performing-operations,https://leetcode.com/problems/final-value-of-variable-after-performing-operations/,cpp,0 ms,17.5 MB,2011-final-value-of-variable-after-performing-operations.cpp
+2043,Simple Bank System,simple-bank-system,https://leetcode.com/problems/simple-bank-system/,cpp,11 ms,123.5 MB,2043-simple-bank-system.cpp
+2048,Next Greater Numerically Balanced Number,next-greater-numerically-balanced-number,https://leetcode.com/problems/next-greater-numerically-balanced-number/,cpp,548 ms,254.9 MB,2048-next-greater-numerically-balanced-number.cpp
+2054,Two Best Non-Overlapping Events,two-best-non-overlapping-events,https://leetcode.com/problems/two-best-non-overlapping-events/,cpp,0 ms,162.2 MB,2054-two-best-non-overlapping-events.cpp
+2092,Find All People With Secret,find-all-people-with-secret,https://leetcode.com/problems/find-all-people-with-secret/,cpp,0 ms,445.9 MB,2092-find-all-people-with-secret.cpp
+2110,Number of Smooth Descent Periods of a Stock,number-of-smooth-descent-periods-of-a-stock,https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/,cpp,0 ms,107.2 MB,2110-number-of-smooth-descent-periods-of-a-stock.cpp
+2125,Number of Laser Beams in a Bank,number-of-laser-beams-in-a-bank,https://leetcode.com/problems/number-of-laser-beams-in-a-bank/,cpp,9 ms,27.3 MB,2125-number-of-laser-beams-in-a-bank.cpp
+2141,Maximum Running Time of N Computers,maximum-running-time-of-n-computers,https://leetcode.com/problems/maximum-running-time-of-n-computers/,cpp,19 ms,59.7 MB,2141-maximum-running-time-of-n-computers.cpp
+2144,Minimum Cost of Buying Candies With Discount,minimum-cost-of-buying-candies-with-discount,https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/,cpp,0 ms,17.1 MB,2144-minimum-cost-of-buying-candies-with-discount.cpp
+2147,Number of Ways to Divide a Long Corridor,number-of-ways-to-divide-a-long-corridor,https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/,cpp,0 ms,33.7 MB,2147-number-of-ways-to-divide-a-long-corridor.cpp
+2149,Rearrange Array Elements by Sign,rearrange-array-elements-by-sign,https://leetcode.com/problems/rearrange-array-elements-by-sign/,cpp,1 ms,128.4 MB,2149-rearrange-array-elements-by-sign.cpp
+2154,Keep Multiplying Found Values by Two,keep-multiplying-found-values-by-two,https://leetcode.com/problems/keep-multiplying-found-values-by-two/,cpp,0 ms,14.2 MB,2154-keep-multiplying-found-values-by-two.cpp
+2169,Count Operations to Obtain Zero,count-operations-to-obtain-zero,https://leetcode.com/problems/count-operations-to-obtain-zero/,cpp,0 ms,7.9 MB,2169-count-operations-to-obtain-zero.cpp
+2211,Count Collisions on a Road,count-collisions-on-a-road,https://leetcode.com/problems/count-collisions-on-a-road/,cpp,7 ms,19.1 MB,2211-count-collisions-on-a-road.cpp
+2220,Minimum Bit Flips to Convert Number,minimum-bit-flips-to-convert-number,https://leetcode.com/problems/minimum-bit-flips-to-convert-number/,cpp,0 ms,7.9 MB,2220-minimum-bit-flips-to-convert-number.cpp
+2257,Count Unguarded Cells in the Grid,count-unguarded-cells-in-the-grid,https://leetcode.com/problems/count-unguarded-cells-in-the-grid/,cpp,212 ms,209.2 MB,2257-count-unguarded-cells-in-the-grid.cpp
+2259,Remove Digit From Number to Maximize Result,remove-digit-from-number-to-maximize-result,https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/,cpp,0 ms,8.3 MB,2259-remove-digit-from-number-to-maximize-result.cpp
+2264,Largest 3-Same-Digit Number in String,largest-3-same-digit-number-in-string,https://leetcode.com/problems/largest-3-same-digit-number-in-string/,cpp,0 ms,9.2 MB,2264-largest-3-same-digit-number-in-string.cpp
+2396,Strictly Palindromic Number,strictly-palindromic-number,https://leetcode.com/problems/strictly-palindromic-number/,cpp,0 ms,7.6 MB,2396-strictly-palindromic-number.cpp
+2402,Meeting Rooms III,meeting-rooms-iii,https://leetcode.com/problems/meeting-rooms-iii/,cpp,0 ms,98.1 MB,2402-meeting-rooms-iii.cpp
+2435,Paths in Matrix Whose Sum Is Divisible by K,paths-in-matrix-whose-sum-is-divisible-by-k,https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/,cpp,63 ms,58.2 MB,2435-paths-in-matrix-whose-sum-is-divisible-by-k.cpp
+2483,Minimum Penalty for a Shop,minimum-penalty-for-a-shop,https://leetcode.com/problems/minimum-penalty-for-a-shop/,cpp,0 ms,13.2 MB,2483-minimum-penalty-for-a-shop.cpp
+2528,Maximize the Minimum Powered City,maximize-the-minimum-powered-city,https://leetcode.com/problems/maximize-the-minimum-powered-city/,cpp,63 ms,227.7 MB,2528-maximize-the-minimum-powered-city.cpp
+2536,Increment Submatrices by One,increment-submatrices-by-one,https://leetcode.com/problems/increment-submatrices-by-one/,cpp,43 ms,86.2 MB,2536-increment-submatrices-by-one.cpp
+2540,Minimum Common Value,minimum-common-value,https://leetcode.com/problems/minimum-common-value/,cpp,0 ms,54.5 MB,2540-minimum-common-value.cpp
+2596,Check Knight Tour Configuration,check-knight-tour-configuration,https://leetcode.com/problems/check-knight-tour-configuration/,cpp,0 ms,31.7 MB,2596-check-knight-tour-configuration.cpp
+2654,Minimum Number of Operations to Make All Array Elements Equal to 1,minimum-number-of-operations-to-make-all-array-elements-equal-to-1,https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/,cpp,0 ms,31.7 MB,2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1.cpp
+2657,Find the Prefix Common Array of Two Arrays,find-the-prefix-common-array-of-two-arrays,https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/,cpp,7 ms,86.3 MB,2657-find-the-prefix-common-array-of-two-arrays.cpp
+2833,Furthest Point From Origin,furthest-point-from-origin,https://leetcode.com/problems/furthest-point-from-origin/,cpp,2 ms,9 MB,2833-furthest-point-from-origin.cpp
+2872,Maximum Number of K-Divisible Components,maximum-number-of-k-divisible-components,https://leetcode.com/problems/maximum-number-of-k-divisible-components/,cpp,96 ms,174.2 MB,2872-maximum-number-of-k-divisible-components.cpp
+2943,Maximize Area of Square Hole in Grid,maximize-area-of-square-hole-in-grid,https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/,cpp,0 ms,31.9 MB,2943-maximize-area-of-square-hole-in-grid.cpp
+2975,Maximum Square Area by Removing Fences From a Field,maximum-square-area-by-removing-fences-from-a-field,https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/,cpp,0 ms,267.1 MB,2975-maximum-square-area-by-removing-fences-from-a-field.cpp
+2976,Minimum Cost to Convert String I,minimum-cost-to-convert-string-i,https://leetcode.com/problems/minimum-cost-to-convert-string-i/,cpp,0 ms,100.4 MB,2976-minimum-cost-to-convert-string-i.cpp
+2977,Minimum Cost to Convert String II,minimum-cost-to-convert-string-ii,https://leetcode.com/problems/minimum-cost-to-convert-string-ii/,cpp,561 ms,247.7 MB,2977-minimum-cost-to-convert-string-ii.cpp
+3010,Divide an Array Into Subarrays With Minimum Cost I,divide-an-array-into-subarrays-with-minimum-cost-i,https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/,cpp,0 ms,30.4 MB,3010-divide-an-array-into-subarrays-with-minimum-cost-i.cpp
+3013,Divide an Array Into Subarrays With Minimum Cost II,divide-an-array-into-subarrays-with-minimum-cost-ii,https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/,cpp,0 ms,184 MB,3013-divide-an-array-into-subarrays-with-minimum-cost-ii.cpp
+3043,Find the Length of the Longest Common Prefix,find-the-length-of-the-longest-common-prefix,https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/,cpp,344 ms,152.9 MB,3043-find-the-length-of-the-longest-common-prefix.cpp
+3047,Find the Largest Area of Square Inside Two Rectangles,find-the-largest-area-of-square-inside-two-rectangles,https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/,cpp,0 ms,59.5 MB,3047-find-the-largest-area-of-square-inside-two-rectangles.cpp
+3074,Apple Redistribution into Boxes,apple-redistribution-into-boxes,https://leetcode.com/problems/apple-redistribution-into-boxes/,cpp,0 ms,33 MB,3074-apple-redistribution-into-boxes.cpp
+3075,Maximize Happiness of Selected Children,maximize-happiness-of-selected-children,https://leetcode.com/problems/maximize-happiness-of-selected-children/,cpp,0 ms,108 MB,3075-maximize-happiness-of-selected-children.cpp
+3120,Count the Number of Special Characters I,count-the-number-of-special-characters-i,https://leetcode.com/problems/count-the-number-of-special-characters-i/,cpp,0 ms,8.9 MB,3120-count-the-number-of-special-characters-i.cpp
+3121,Count the Number of Special Characters II,count-the-number-of-special-characters-ii,https://leetcode.com/problems/count-the-number-of-special-characters-ii/,cpp,77 ms,24.5 MB,3121-count-the-number-of-special-characters-ii.cpp
+3190,Find Minimum Operations to Make All Elements Divisible by Three,find-minimum-operations-to-make-all-elements-divisible-by-three,https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/,cpp,0 ms,23.3 MB,3190-find-minimum-operations-to-make-all-elements-divisible-by-three.cpp
+3217,Delete Nodes From Linked List Present in Array,delete-nodes-from-linked-list-present-in-array,https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/,cpp,100 ms,263.4 MB,3217-delete-nodes-from-linked-list-present-in-array.cpp
+3228,Maximum Number of Operations to Move Ones to the End,maximum-number-of-operations-to-move-ones-to-the-end,https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/,cpp,0 ms,15.8 MB,3228-maximum-number-of-operations-to-move-ones-to-the-end.cpp
+3234,Count the Number of Substrings With Dominant Ones,count-the-number-of-substrings-with-dominant-ones,https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/,cpp,1474 ms,18.2 MB,3234-count-the-number-of-substrings-with-dominant-ones.cpp
+3289,The Two Sneaky Numbers of Digitville,the-two-sneaky-numbers-of-digitville,https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/,cpp,0 ms,26 MB,3289-the-two-sneaky-numbers-of-digitville.cpp
+3314,Construct the Minimum Bitwise Array I,construct-the-minimum-bitwise-array-i,https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/,cpp,0 ms,25.2 MB,3314-construct-the-minimum-bitwise-array-i.cpp
+3315,Construct the Minimum Bitwise Array II,construct-the-minimum-bitwise-array-ii,https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/,cpp,0 ms,28.4 MB,3315-construct-the-minimum-bitwise-array-ii.cpp
+3318,Find X-Sum of All K-Long Subarrays I,find-x-sum-of-all-k-long-subarrays-i,https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/,cpp,19 ms,37.4 MB,3318-find-x-sum-of-all-k-long-subarrays-i.cpp
+3321,Find X-Sum of All K-Long Subarrays II,find-x-sum-of-all-k-long-subarrays-ii,https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/,cpp,746 ms,280.5 MB,3321-find-x-sum-of-all-k-long-subarrays-ii.cpp
+3346,Maximum Frequency of an Element After Performing Operations I,maximum-frequency-of-an-element-after-performing-operations-i,https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/,cpp,14 ms,96.2 MB,3346-maximum-frequency-of-an-element-after-performing-operations-i.cpp
+3347,Maximum Frequency of an Element After Performing Operations II,maximum-frequency-of-an-element-after-performing-operations-ii,https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/,cpp,1245 ms,286.3 MB,3347-maximum-frequency-of-an-element-after-performing-operations-ii.cpp
+3354,Make Array Elements Equal to Zero,make-array-elements-equal-to-zero,https://leetcode.com/problems/make-array-elements-equal-to-zero/,cpp,230 ms,24.1 MB,3354-make-array-elements-equal-to-zero.cpp
+3370,Smallest Number With All Set Bits,smallest-number-with-all-set-bits,https://leetcode.com/problems/smallest-number-with-all-set-bits/,cpp,0 ms,8.1 MB,3370-smallest-number-with-all-set-bits.cpp
+3379,Transformed Array,transformed-array,https://leetcode.com/problems/transformed-array/,cpp,0 ms,25.7 MB,3379-transformed-array.cpp
+3381,Maximum Subarray Sum With Length Divisible by K,maximum-subarray-sum-with-length-divisible-by-k,https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/,cpp,8 ms,171.2 MB,3381-maximum-subarray-sum-with-length-divisible-by-k.cpp
+3392,Count Subarrays of Length Three With a Condition,count-subarrays-of-length-three-with-a-condition,https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/,cpp,3 ms,48.4 MB,3392-count-subarrays-of-length-three-with-a-condition.cpp
+3432,Count Partitions with Even Sum Difference,count-partitions-with-even-sum-difference,https://leetcode.com/problems/count-partitions-with-even-sum-difference/,cpp,0 ms,22.4 MB,3432-count-partitions-with-even-sum-difference.cpp
+3433,Count Mentions Per User,count-mentions-per-user,https://leetcode.com/problems/count-mentions-per-user/,cpp,25 ms,43.4 MB,3433-count-mentions-per-user.cpp
+3453,Separate Squares I,separate-squares-i,https://leetcode.com/problems/separate-squares-i/,cpp,0 ms,198.5 MB,3453-separate-squares-i.cpp
+3454,Separate Squares II,separate-squares-ii,https://leetcode.com/problems/separate-squares-ii/,cpp,367 ms,139.9 MB,3454-separate-squares-ii.cpp
+3461,Check If Digits Are Equal in String After Operations I,check-if-digits-are-equal-in-string-after-operations-i,https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/,cpp,4 ms,10.1 MB,3461-check-if-digits-are-equal-in-string-after-operations-i.cpp
+3507,Minimum Pair Removal to Sort Array I,minimum-pair-removal-to-sort-array-i,https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/,cpp,0 ms,26.5 MB,3507-minimum-pair-removal-to-sort-array-i.cpp
+3510,Minimum Pair Removal to Sort Array II,minimum-pair-removal-to-sort-array-ii,https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/,cpp,0 ms,314.7 MB,3510-minimum-pair-removal-to-sort-array-ii.cpp
+3512,Minimum Operations to Make Array Sum Divisible by K,minimum-operations-to-make-array-sum-divisible-by-k,https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/,cpp,0 ms,45.3 MB,3512-minimum-operations-to-make-array-sum-divisible-by-k.cpp
+3531,Count Covered Buildings,count-covered-buildings,https://leetcode.com/problems/count-covered-buildings/,cpp,23 ms,283.8 MB,3531-count-covered-buildings.cpp
+3542,Minimum Operations to Convert All Elements to Zero,minimum-operations-to-convert-all-elements-to-zero,https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/,cpp,36 ms,222.3 MB,3542-minimum-operations-to-convert-all-elements-to-zero.cpp
+3562,Maximum Profit from Trading Stocks with Discounts,maximum-profit-from-trading-stocks-with-discounts,https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/,cpp,0 ms,162.5 MB,3562-maximum-profit-from-trading-stocks-with-discounts.cpp
+3573,Best Time to Buy and Sell Stock V,best-time-to-buy-and-sell-stock-v,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/,cpp,0 ms,343.4 MB,3573-best-time-to-buy-and-sell-stock-v.cpp
+3577,Count the Number of Computer Unlocking Permutations,count-the-number-of-computer-unlocking-permutations,https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/,cpp,0 ms,92.7 MB,3577-count-the-number-of-computer-unlocking-permutations.cpp
+3578,Count Partitions With Max-Min Difference at Most K,count-partitions-with-max-min-difference-at-most-k,https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/,cpp,0 ms,232.3 MB,3578-count-partitions-with-max-min-difference-at-most-k.cpp
+3583,Count Special Triplets,count-special-triplets,https://leetcode.com/problems/count-special-triplets/,cpp,763 ms,403 MB,3583-count-special-triplets.cpp
+3606,Coupon Code Validator,coupon-code-validator,https://leetcode.com/problems/coupon-code-validator/,cpp,7 ms,70.2 MB,3606-coupon-code-validator.cpp
+3607,Power Grid Maintenance,power-grid-maintenance,https://leetcode.com/problems/power-grid-maintenance/,cpp,510 ms,432.6 MB,3607-power-grid-maintenance.cpp
+3623,Count Number of Trapezoids I,count-number-of-trapezoids-i,https://leetcode.com/problems/count-number-of-trapezoids-i/,cpp,59 ms,191.7 MB,3623-count-number-of-trapezoids-i.cpp
+3625,Count Number of Trapezoids II,count-number-of-trapezoids-ii,https://leetcode.com/problems/count-number-of-trapezoids-ii/,cpp,2574 ms,401 MB,3625-count-number-of-trapezoids-ii.cpp
+3633,Earliest Finish Time for Land and Water Rides I,earliest-finish-time-for-land-and-water-rides-i,https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/,cpp,10 ms,91.7 MB,3633-earliest-finish-time-for-land-and-water-rides-i.cpp
+3634,Minimum Removals to Balance Array,minimum-removals-to-balance-array,https://leetcode.com/problems/minimum-removals-to-balance-array/,cpp,30 ms,105 MB,3634-minimum-removals-to-balance-array.cpp
+3637,Trionic Array I,trionic-array-i,https://leetcode.com/problems/trionic-array-i/,cpp,0 ms,27.7 MB,3637-trionic-array-i.cpp
+3640,Trionic Array II,trionic-array-ii,https://leetcode.com/problems/trionic-array-ii/,cpp,4 ms,132.6 MB,3640-trionic-array-ii.cpp
+3650,Minimum Cost Path with Edge Reversals,minimum-cost-path-with-edge-reversals,https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/,cpp,0 ms,290.4 MB,3650-minimum-cost-path-with-edge-reversals.cpp
+3651,Minimum Cost Path with Teleportations,minimum-cost-path-with-teleportations,https://leetcode.com/problems/minimum-cost-path-with-teleportations/,cpp,488 ms,130.4 MB,3651-minimum-cost-path-with-teleportations.cpp
+3652,Best Time to Buy and Sell Stock using Strategy,best-time-to-buy-and-sell-stock-using-strategy,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/,cpp,0 ms,316 MB,3652-best-time-to-buy-and-sell-stock-using-strategy.cpp
+3666,Minimum Operations to Equalize Binary String,minimum-operations-to-equalize-binary-string,https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/,cpp,552 ms,161.5 MB,3666-minimum-operations-to-equalize-binary-string.cpp
+3713,Longest Balanced Substring I,longest-balanced-substring-i,https://leetcode.com/problems/longest-balanced-substring-i/,cpp,0 ms,25.5 MB,3713-longest-balanced-substring-i.cpp
+3714,Longest Balanced Substring II,longest-balanced-substring-ii,https://leetcode.com/problems/longest-balanced-substring-ii/,cpp,0 ms,242.9 MB,3714-longest-balanced-substring-ii.cpp
+3719,Longest Balanced Subarray I,longest-balanced-subarray-i,https://leetcode.com/problems/longest-balanced-subarray-i/,cpp,0 ms,530.5 MB,3719-longest-balanced-subarray-i.cpp
+3721,Longest Balanced Subarray II,longest-balanced-subarray-ii,https://leetcode.com/problems/longest-balanced-subarray-ii/,cpp,0 ms,164.1 MB,3721-longest-balanced-subarray-ii.cpp
+3917,Count Indices With Opposite Parity,count-indices-with-opposite-parity,https://leetcode.com/problems/count-indices-with-opposite-parity/,cpp,0 ms,32.8 MB,3917-count-indices-with-opposite-parity.cpp
+3918,Sum of Primes Between Number and Its Reverse,sum-of-primes-between-number-and-its-reverse,https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/,cpp,2 ms,8.5 MB,3918-sum-of-primes-between-number-and-its-reverse.cpp
+3919,Minimum Cost to Move Between Indices,minimum-cost-to-move-between-indices,https://leetcode.com/problems/minimum-cost-to-move-between-indices/,cpp,18 ms,234.5 MB,3919-minimum-cost-to-move-between-indices.cpp

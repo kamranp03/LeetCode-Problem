@@ -1,0 +1,2552 @@
+[
+  {
+    "number": 1,
+    "title": "Two Sum",
+    "slug": "two-sum",
+    "link": "https://leetcode.com/problems/two-sum/",
+    "language": "cpp",
+    "runtime": "3 ms",
+    "memory": "14.8 MB",
+    "file": "0001-two-sum.cpp"
+  },
+  {
+    "number": 3,
+    "title": "Longest Substring Without Repeating Characters",
+    "slug": "longest-substring-without-repeating-characters",
+    "link": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "12.4 MB",
+    "file": "0003-longest-substring-without-repeating-characters.cpp"
+  },
+  {
+    "number": 7,
+    "title": "Reverse Integer",
+    "slug": "reverse-integer",
+    "link": "https://leetcode.com/problems/reverse-integer/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.7 MB",
+    "file": "0007-reverse-integer.cpp"
+  },
+  {
+    "number": 9,
+    "title": "Palindrome Number",
+    "slug": "palindrome-number",
+    "link": "https://leetcode.com/problems/palindrome-number/",
+    "language": "cpp",
+    "runtime": "4 ms",
+    "memory": "8.6 MB",
+    "file": "0009-palindrome-number.cpp"
+  },
+  {
+    "number": 11,
+    "title": "Container With Most Water",
+    "slug": "container-with-most-water",
+    "link": "https://leetcode.com/problems/container-with-most-water/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "62.8 MB",
+    "file": "0011-container-with-most-water.cpp"
+  },
+  {
+    "number": 13,
+    "title": "Roman to Integer",
+    "slug": "roman-to-integer",
+    "link": "https://leetcode.com/problems/roman-to-integer/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "10.1 MB",
+    "file": "0013-roman-to-integer.cpp"
+  },
+  {
+    "number": 15,
+    "title": "3Sum",
+    "slug": "3sum",
+    "link": "https://leetcode.com/problems/3sum/",
+    "language": "cpp",
+    "runtime": "35 ms",
+    "memory": "29 MB",
+    "file": "0015-3sum.cpp"
+  },
+  {
+    "number": 16,
+    "title": "3Sum Closest",
+    "slug": "3sum-closest",
+    "link": "https://leetcode.com/problems/3sum-closest/",
+    "language": "cpp",
+    "runtime": "15 ms",
+    "memory": "14.1 MB",
+    "file": "0016-3sum-closest.cpp"
+  },
+  {
+    "number": 17,
+    "title": "Letter Combinations of a Phone Number",
+    "slug": "letter-combinations-of-a-phone-number",
+    "link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "9.4 MB",
+    "file": "0017-letter-combinations-of-a-phone-number.cpp"
+  },
+  {
+    "number": 19,
+    "title": "Remove Nth Node From End of List",
+    "slug": "remove-nth-node-from-end-of-list",
+    "link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "14.9 MB",
+    "file": "0019-remove-nth-node-from-end-of-list.cpp"
+  },
+  {
+    "number": 20,
+    "title": "Valid Parentheses",
+    "slug": "valid-parentheses",
+    "link": "https://leetcode.com/problems/valid-parentheses/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.7 MB",
+    "file": "0020-valid-parentheses.cpp"
+  },
+  {
+    "number": 21,
+    "title": "Merge Two Sorted Lists",
+    "slug": "merge-two-sorted-lists",
+    "link": "https://leetcode.com/problems/merge-two-sorted-lists/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "19.4 MB",
+    "file": "0021-merge-two-sorted-lists.cpp"
+  },
+  {
+    "number": 22,
+    "title": "Generate Parentheses",
+    "slug": "generate-parentheses",
+    "link": "https://leetcode.com/problems/generate-parentheses/",
+    "language": "cpp",
+    "runtime": "4 ms",
+    "memory": "16.4 MB",
+    "file": "0022-generate-parentheses.cpp"
+  },
+  {
+    "number": 26,
+    "title": "Remove Duplicates from Sorted Array",
+    "slug": "remove-duplicates-from-sorted-array",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "22.8 MB",
+    "file": "0026-remove-duplicates-from-sorted-array.cpp"
+  },
+  {
+    "number": 27,
+    "title": "Remove Element",
+    "slug": "remove-element",
+    "link": "https://leetcode.com/problems/remove-element/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "11.6 MB",
+    "file": "0027-remove-element.cpp"
+  },
+  {
+    "number": 28,
+    "title": "Find the Index of the First Occurrence in a String",
+    "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+    "link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "9.1 MB",
+    "file": "0028-find-the-index-of-the-first-occurrence-in-a-string.cpp"
+  },
+  {
+    "number": 29,
+    "title": "Divide Two Integers",
+    "slug": "divide-two-integers",
+    "link": "https://leetcode.com/problems/divide-two-integers/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.4 MB",
+    "file": "0029-divide-two-integers.cpp"
+  },
+  {
+    "number": 31,
+    "title": "Next Permutation",
+    "slug": "next-permutation",
+    "link": "https://leetcode.com/problems/next-permutation/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "15.7 MB",
+    "file": "0031-next-permutation.cpp"
+  },
+  {
+    "number": 33,
+    "title": "Search in Rotated Sorted Array",
+    "slug": "search-in-rotated-sorted-array",
+    "link": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "15.1 MB",
+    "file": "0033-search-in-rotated-sorted-array.cpp"
+  },
+  {
+    "number": 35,
+    "title": "Search Insert Position",
+    "slug": "search-insert-position",
+    "link": "https://leetcode.com/problems/search-insert-position/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "13.7 MB",
+    "file": "0035-search-insert-position.cpp"
+  },
+  {
+    "number": 37,
+    "title": "Sudoku Solver",
+    "slug": "sudoku-solver",
+    "link": "https://leetcode.com/problems/sudoku-solver/",
+    "language": "cpp",
+    "runtime": "229 ms",
+    "memory": "8.7 MB",
+    "file": "0037-sudoku-solver.cpp"
+  },
+  {
+    "number": 39,
+    "title": "Combination Sum",
+    "slug": "combination-sum",
+    "link": "https://leetcode.com/problems/combination-sum/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "14 MB",
+    "file": "0039-combination-sum.cpp"
+  },
+  {
+    "number": 46,
+    "title": "Permutations",
+    "slug": "permutations",
+    "link": "https://leetcode.com/problems/permutations/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "10.6 MB",
+    "file": "0046-permutations.cpp"
+  },
+  {
+    "number": 51,
+    "title": "N-Queens",
+    "slug": "n-queens",
+    "link": "https://leetcode.com/problems/n-queens/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "10.2 MB",
+    "file": "0051-n-queens.cpp"
+  },
+  {
+    "number": 53,
+    "title": "Maximum Subarray",
+    "slug": "maximum-subarray",
+    "link": "https://leetcode.com/problems/maximum-subarray/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "71.6 MB",
+    "file": "0053-maximum-subarray.cpp"
+  },
+  {
+    "number": 58,
+    "title": "Length of Last Word",
+    "slug": "length-of-last-word",
+    "link": "https://leetcode.com/problems/length-of-last-word/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.8 MB",
+    "file": "0058-length-of-last-word.cpp"
+  },
+  {
+    "number": 61,
+    "title": "Rotate List",
+    "slug": "rotate-list",
+    "link": "https://leetcode.com/problems/rotate-list/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "16.5 MB",
+    "file": "0061-rotate-list.cpp"
+  },
+  {
+    "number": 66,
+    "title": "Plus One",
+    "slug": "plus-one",
+    "link": "https://leetcode.com/problems/plus-one/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "11.6 MB",
+    "file": "0066-plus-one.cpp"
+  },
+  {
+    "number": 67,
+    "title": "Add Binary",
+    "slug": "add-binary",
+    "link": "https://leetcode.com/problems/add-binary/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "9 MB",
+    "file": "0067-add-binary.cpp"
+  },
+  {
+    "number": 69,
+    "title": "Sqrt(x)",
+    "slug": "sqrtx",
+    "link": "https://leetcode.com/problems/sqrtx/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.5 MB",
+    "file": "0069-sqrtx.cpp"
+  },
+  {
+    "number": 70,
+    "title": "Climbing Stairs",
+    "slug": "climbing-stairs",
+    "link": "https://leetcode.com/problems/climbing-stairs/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "7.9 MB",
+    "file": "0070-climbing-stairs.cpp"
+  },
+  {
+    "number": 75,
+    "title": "Sort Colors",
+    "slug": "sort-colors",
+    "link": "https://leetcode.com/problems/sort-colors/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "11.8 MB",
+    "file": "0075-sort-colors.cpp"
+  },
+  {
+    "number": 76,
+    "title": "Minimum Window Substring",
+    "slug": "minimum-window-substring",
+    "link": "https://leetcode.com/problems/minimum-window-substring/",
+    "language": "cpp",
+    "runtime": "187 ms",
+    "memory": "12 MB",
+    "file": "0076-minimum-window-substring.cpp"
+  },
+  {
+    "number": 79,
+    "title": "Word Search",
+    "slug": "word-search",
+    "link": "https://leetcode.com/problems/word-search/",
+    "language": "cpp",
+    "runtime": "191 ms",
+    "memory": "10.3 MB",
+    "file": "0079-word-search.cpp"
+  },
+  {
+    "number": 82,
+    "title": "Remove Duplicates from Sorted List II",
+    "slug": "remove-duplicates-from-sorted-list-ii",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "16.2 MB",
+    "file": "0082-remove-duplicates-from-sorted-list-ii.cpp"
+  },
+  {
+    "number": 83,
+    "title": "Remove Duplicates from Sorted List",
+    "slug": "remove-duplicates-from-sorted-list",
+    "link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "16.2 MB",
+    "file": "0083-remove-duplicates-from-sorted-list.cpp"
+  },
+  {
+    "number": 85,
+    "title": "Maximal Rectangle",
+    "slug": "maximal-rectangle",
+    "link": "https://leetcode.com/problems/maximal-rectangle/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "18 MB",
+    "file": "0085-maximal-rectangle.cpp"
+  },
+  {
+    "number": 88,
+    "title": "Merge Sorted Array",
+    "slug": "merge-sorted-array",
+    "link": "https://leetcode.com/problems/merge-sorted-array/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "12.2 MB",
+    "file": "0088-merge-sorted-array.cpp"
+  },
+  {
+    "number": 94,
+    "title": "Binary Tree Inorder Traversal",
+    "slug": "binary-tree-inorder-traversal",
+    "link": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "13.4 MB",
+    "file": "0094-binary-tree-inorder-traversal.cpp"
+  },
+  {
+    "number": 100,
+    "title": "Same Tree",
+    "slug": "same-tree",
+    "link": "https://leetcode.com/problems/same-tree/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "12.7 MB",
+    "file": "0100-same-tree.cpp"
+  },
+  {
+    "number": 101,
+    "title": "Symmetric Tree",
+    "slug": "symmetric-tree",
+    "link": "https://leetcode.com/problems/symmetric-tree/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "18.5 MB",
+    "file": "0101-symmetric-tree.cpp"
+  },
+  {
+    "number": 102,
+    "title": "Binary Tree Level Order Traversal",
+    "slug": "binary-tree-level-order-traversal",
+    "link": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+    "language": "cpp",
+    "runtime": "2 ms",
+    "memory": "17.1 MB",
+    "file": "0102-binary-tree-level-order-traversal.cpp"
+  },
+  {
+    "number": 110,
+    "title": "Balanced Binary Tree",
+    "slug": "balanced-binary-tree",
+    "link": "https://leetcode.com/problems/balanced-binary-tree/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "23.1 MB",
+    "file": "0110-balanced-binary-tree.cpp"
+  },
+  {
+    "number": 121,
+    "title": "Best Time to Buy and Sell Stock",
+    "slug": "best-time-to-buy-and-sell-stock",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "97.3 MB",
+    "file": "0121-best-time-to-buy-and-sell-stock.cpp"
+  },
+  {
+    "number": 122,
+    "title": "Best Time to Buy and Sell Stock II",
+    "slug": "best-time-to-buy-and-sell-stock-ii",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "20.2 MB",
+    "file": "0122-best-time-to-buy-and-sell-stock-ii.cpp"
+  },
+  {
+    "number": 125,
+    "title": "Valid Palindrome",
+    "slug": "valid-palindrome",
+    "link": "https://leetcode.com/problems/valid-palindrome/",
+    "language": "cpp",
+    "runtime": "3 ms",
+    "memory": "10.2 MB",
+    "file": "0125-valid-palindrome.cpp"
+  },
+  {
+    "number": 128,
+    "title": "Longest Consecutive Sequence",
+    "slug": "longest-consecutive-sequence",
+    "link": "https://leetcode.com/problems/longest-consecutive-sequence/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "88.9 MB",
+    "file": "0128-longest-consecutive-sequence.cpp"
+  },
+  {
+    "number": 136,
+    "title": "Single Number",
+    "slug": "single-number",
+    "link": "https://leetcode.com/problems/single-number/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "20.7 MB",
+    "file": "0136-single-number.cpp"
+  },
+  {
+    "number": 141,
+    "title": "Linked List Cycle",
+    "slug": "linked-list-cycle",
+    "link": "https://leetcode.com/problems/linked-list-cycle/",
+    "language": "cpp",
+    "runtime": "6 ms",
+    "memory": "11.9 MB",
+    "file": "0141-linked-list-cycle.cpp"
+  },
+  {
+    "number": 142,
+    "title": "Linked List Cycle II",
+    "slug": "linked-list-cycle-ii",
+    "link": "https://leetcode.com/problems/linked-list-cycle-ii/",
+    "language": "cpp",
+    "runtime": "10 ms",
+    "memory": "11.4 MB",
+    "file": "0142-linked-list-cycle-ii.cpp"
+  },
+  {
+    "number": 144,
+    "title": "Binary Tree Preorder Traversal",
+    "slug": "binary-tree-preorder-traversal",
+    "link": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "13.3 MB",
+    "file": "0144-binary-tree-preorder-traversal.cpp"
+  },
+  {
+    "number": 145,
+    "title": "Binary Tree Postorder Traversal",
+    "slug": "binary-tree-postorder-traversal",
+    "link": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "13.3 MB",
+    "file": "0145-binary-tree-postorder-traversal.cpp"
+  },
+  {
+    "number": 152,
+    "title": "Maximum Product Subarray",
+    "slug": "maximum-product-subarray",
+    "link": "https://leetcode.com/problems/maximum-product-subarray/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "17.7 MB",
+    "file": "0152-maximum-product-subarray.cpp"
+  },
+  {
+    "number": 167,
+    "title": "Two Sum II - Input Array Is Sorted",
+    "slug": "two-sum-ii-input-array-is-sorted",
+    "link": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "19.5 MB",
+    "file": "0167-two-sum-ii-input-array-is-sorted.cpp"
+  },
+  {
+    "number": 169,
+    "title": "Majority Element",
+    "slug": "majority-element",
+    "link": "https://leetcode.com/problems/majority-element/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "28.2 MB",
+    "file": "0169-majority-element.cpp"
+  },
+  {
+    "number": 182,
+    "title": "Duplicate Emails",
+    "slug": "duplicate-emails",
+    "link": "https://leetcode.com/problems/duplicate-emails/",
+    "language": "mysql",
+    "runtime": "370 ms",
+    "memory": "0.0B",
+    "file": "0182-duplicate-emails.sql"
+  },
+  {
+    "number": 189,
+    "title": "Rotate Array",
+    "slug": "rotate-array",
+    "link": "https://leetcode.com/problems/rotate-array/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "30.3 MB",
+    "file": "0189-rotate-array.cpp"
+  },
+  {
+    "number": 190,
+    "title": "Reverse Bits",
+    "slug": "reverse-bits",
+    "link": "https://leetcode.com/problems/reverse-bits/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.2 MB",
+    "file": "0190-reverse-bits.cpp"
+  },
+  {
+    "number": 200,
+    "title": "Number of Islands",
+    "slug": "number-of-islands",
+    "link": "https://leetcode.com/problems/number-of-islands/",
+    "language": "cpp",
+    "runtime": "24 ms",
+    "memory": "16.7 MB",
+    "file": "0200-number-of-islands.cpp"
+  },
+  {
+    "number": 202,
+    "title": "Happy Number",
+    "slug": "happy-number",
+    "link": "https://leetcode.com/problems/happy-number/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "7.9 MB",
+    "file": "0202-happy-number.cpp"
+  },
+  {
+    "number": 206,
+    "title": "Reverse Linked List",
+    "slug": "reverse-linked-list",
+    "link": "https://leetcode.com/problems/reverse-linked-list/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "13.4 MB",
+    "file": "0206-reverse-linked-list.cpp"
+  },
+  {
+    "number": 207,
+    "title": "Course Schedule",
+    "slug": "course-schedule",
+    "link": "https://leetcode.com/problems/course-schedule/",
+    "language": "cpp",
+    "runtime": "4 ms",
+    "memory": "19.2 MB",
+    "file": "0207-course-schedule.cpp"
+  },
+  {
+    "number": 209,
+    "title": "Minimum Size Subarray Sum",
+    "slug": "minimum-size-subarray-sum",
+    "link": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "32 MB",
+    "file": "0209-minimum-size-subarray-sum.cpp"
+  },
+  {
+    "number": 210,
+    "title": "Course Schedule II",
+    "slug": "course-schedule-ii",
+    "link": "https://leetcode.com/problems/course-schedule-ii/",
+    "language": "cpp",
+    "runtime": "4 ms",
+    "memory": "18.7 MB",
+    "file": "0210-course-schedule-ii.cpp"
+  },
+  {
+    "number": 226,
+    "title": "Invert Binary Tree",
+    "slug": "invert-binary-tree",
+    "link": "https://leetcode.com/problems/invert-binary-tree/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "12.5 MB",
+    "file": "0226-invert-binary-tree.cpp"
+  },
+  {
+    "number": 229,
+    "title": "Majority Element II",
+    "slug": "majority-element-ii",
+    "link": "https://leetcode.com/problems/majority-element-ii/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "23.5 MB",
+    "file": "0229-majority-element-ii.cpp"
+  },
+  {
+    "number": 234,
+    "title": "Palindrome Linked List",
+    "slug": "palindrome-linked-list",
+    "link": "https://leetcode.com/problems/palindrome-linked-list/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "118.1 MB",
+    "file": "0234-palindrome-linked-list.cpp"
+  },
+  {
+    "number": 236,
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "slug": "lowest-common-ancestor-of-a-binary-tree",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+    "language": "cpp",
+    "runtime": "59 ms",
+    "memory": "44 MB",
+    "file": "0236-lowest-common-ancestor-of-a-binary-tree.cpp"
+  },
+  {
+    "number": 238,
+    "title": "Product of Array Except Self",
+    "slug": "product-of-array-except-self",
+    "link": "https://leetcode.com/problems/product-of-array-except-self/",
+    "language": "cpp",
+    "runtime": "3 ms",
+    "memory": "40.2 MB",
+    "file": "0238-product-of-array-except-self.cpp"
+  },
+  {
+    "number": 242,
+    "title": "Valid Anagram",
+    "slug": "valid-anagram",
+    "link": "https://leetcode.com/problems/valid-anagram/",
+    "language": "cpp",
+    "runtime": "2 ms",
+    "memory": "10 MB",
+    "file": "0242-valid-anagram.cpp"
+  },
+  {
+    "number": 263,
+    "title": "Ugly Number",
+    "slug": "ugly-number",
+    "link": "https://leetcode.com/problems/ugly-number/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "7.9 MB",
+    "file": "0263-ugly-number.cpp"
+  },
+  {
+    "number": 268,
+    "title": "Missing Number",
+    "slug": "missing-number",
+    "link": "https://leetcode.com/problems/missing-number/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "21.8 MB",
+    "file": "0268-missing-number.cpp"
+  },
+  {
+    "number": 283,
+    "title": "Move Zeroes",
+    "slug": "move-zeroes",
+    "link": "https://leetcode.com/problems/move-zeroes/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "23.8 MB",
+    "file": "0283-move-zeroes.cpp"
+  },
+  {
+    "number": 287,
+    "title": "Find the Duplicate Number",
+    "slug": "find-the-duplicate-number",
+    "link": "https://leetcode.com/problems/find-the-duplicate-number/",
+    "language": "cpp",
+    "runtime": "67 ms",
+    "memory": "87.8 MB",
+    "file": "0287-find-the-duplicate-number.cpp"
+  },
+  {
+    "number": 344,
+    "title": "Reverse String",
+    "slug": "reverse-string",
+    "link": "https://leetcode.com/problems/reverse-string/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "27.1 MB",
+    "file": "0344-reverse-string.cpp"
+  },
+  {
+    "number": 349,
+    "title": "Intersection of Two Arrays",
+    "slug": "intersection-of-two-arrays",
+    "link": "https://leetcode.com/problems/intersection-of-two-arrays/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "14.7 MB",
+    "file": "0349-intersection-of-two-arrays.cpp"
+  },
+  {
+    "number": 401,
+    "title": "Binary Watch",
+    "slug": "binary-watch",
+    "link": "https://leetcode.com/problems/binary-watch/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "9.6 MB",
+    "file": "0401-binary-watch.cpp"
+  },
+  {
+    "number": 424,
+    "title": "Longest Repeating Character Replacement",
+    "slug": "longest-repeating-character-replacement",
+    "link": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+    "language": "cpp",
+    "runtime": "34 ms",
+    "memory": "10.8 MB",
+    "file": "0424-longest-repeating-character-replacement.cpp"
+  },
+  {
+    "number": 451,
+    "title": "Sort Characters By Frequency",
+    "slug": "sort-characters-by-frequency",
+    "link": "https://leetcode.com/problems/sort-characters-by-frequency/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "11.7 MB",
+    "file": "0451-sort-characters-by-frequency.cpp"
+  },
+  {
+    "number": 455,
+    "title": "Assign Cookies",
+    "slug": "assign-cookies",
+    "link": "https://leetcode.com/problems/assign-cookies/",
+    "language": "cpp",
+    "runtime": "8 ms",
+    "memory": "44.8 MB",
+    "file": "0455-assign-cookies.cpp"
+  },
+  {
+    "number": 474,
+    "title": "Ones and Zeroes",
+    "slug": "ones-and-zeroes",
+    "link": "https://leetcode.com/problems/ones-and-zeroes/",
+    "language": "cpp",
+    "runtime": "202 ms",
+    "memory": "39.5 MB",
+    "file": "0474-ones-and-zeroes.cpp"
+  },
+  {
+    "number": 496,
+    "title": "Next Greater Element I",
+    "slug": "next-greater-element-i",
+    "link": "https://leetcode.com/problems/next-greater-element-i/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "12.8 MB",
+    "file": "0496-next-greater-element-i.cpp"
+  },
+  {
+    "number": 509,
+    "title": "Fibonacci Number",
+    "slug": "fibonacci-number",
+    "link": "https://leetcode.com/problems/fibonacci-number/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "7.8 MB",
+    "file": "0509-fibonacci-number.cpp"
+  },
+  {
+    "number": 540,
+    "title": "Single Element in a Sorted Array",
+    "slug": "single-element-in-a-sorted-array",
+    "link": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "26.3 MB",
+    "file": "0540-single-element-in-a-sorted-array.cpp"
+  },
+  {
+    "number": 560,
+    "title": "Subarray Sum Equals K",
+    "slug": "subarray-sum-equals-k",
+    "link": "https://leetcode.com/problems/subarray-sum-equals-k/",
+    "language": "cpp",
+    "runtime": "2502 ms",
+    "memory": "34.4 MB",
+    "file": "0560-subarray-sum-equals-k.cpp"
+  },
+  {
+    "number": 581,
+    "title": "Shortest Unsorted Continuous Subarray",
+    "slug": "shortest-unsorted-continuous-subarray",
+    "link": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "30.5 MB",
+    "file": "0581-shortest-unsorted-continuous-subarray.cpp"
+  },
+  {
+    "number": 693,
+    "title": "Binary Number with Alternating Bits",
+    "slug": "binary-number-with-alternating-bits",
+    "link": "https://leetcode.com/problems/binary-number-with-alternating-bits/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "7.6 MB",
+    "file": "0693-binary-number-with-alternating-bits.cpp"
+  },
+  {
+    "number": 696,
+    "title": "Count Binary Substrings",
+    "slug": "count-binary-substrings",
+    "link": "https://leetcode.com/problems/count-binary-substrings/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "13 MB",
+    "file": "0696-count-binary-substrings.cpp"
+  },
+  {
+    "number": 712,
+    "title": "Minimum ASCII Delete Sum for Two Strings",
+    "slug": "minimum-ascii-delete-sum-for-two-strings",
+    "link": "https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/",
+    "language": "cpp",
+    "runtime": "15 ms",
+    "memory": "18.3 MB",
+    "file": "0712-minimum-ascii-delete-sum-for-two-strings.cpp"
+  },
+  {
+    "number": 717,
+    "title": "1-bit and 2-bit Characters",
+    "slug": "1-bit-and-2-bit-characters",
+    "link": "https://leetcode.com/problems/1-bit-and-2-bit-characters/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "13.1 MB",
+    "file": "0717-1-bit-and-2-bit-characters.cpp"
+  },
+  {
+    "number": 724,
+    "title": "Find Pivot Index",
+    "slug": "find-pivot-index",
+    "link": "https://leetcode.com/problems/find-pivot-index/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "35.8 MB",
+    "file": "0724-find-pivot-index.cpp"
+  },
+  {
+    "number": 733,
+    "title": "Flood Fill",
+    "slug": "flood-fill",
+    "link": "https://leetcode.com/problems/flood-fill/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "18 MB",
+    "file": "0733-flood-fill.cpp"
+  },
+  {
+    "number": 744,
+    "title": "Find Smallest Letter Greater Than Target",
+    "slug": "find-smallest-letter-greater-than-target",
+    "link": "https://leetcode.com/problems/find-smallest-letter-greater-than-target/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "19.6 MB",
+    "file": "0744-find-smallest-letter-greater-than-target.cpp"
+  },
+  {
+    "number": 756,
+    "title": "Pyramid Transition Matrix",
+    "slug": "pyramid-transition-matrix",
+    "link": "https://leetcode.com/problems/pyramid-transition-matrix/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "157.8 MB",
+    "file": "0756-pyramid-transition-matrix.cpp"
+  },
+  {
+    "number": 757,
+    "title": "Set Intersection Size At Least Two",
+    "slug": "set-intersection-size-at-least-two",
+    "link": "https://leetcode.com/problems/set-intersection-size-at-least-two/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "21.7 MB",
+    "file": "0757-set-intersection-size-at-least-two.cpp"
+  },
+  {
+    "number": 761,
+    "title": "Special Binary String",
+    "slug": "special-binary-string",
+    "link": "https://leetcode.com/problems/special-binary-string/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "9.5 MB",
+    "file": "0761-special-binary-string.cpp"
+  },
+  {
+    "number": 762,
+    "title": "Prime Number of Set Bits in Binary Representation",
+    "slug": "prime-number-of-set-bits-in-binary-representation",
+    "link": "https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/",
+    "language": "cpp",
+    "runtime": "3 ms",
+    "memory": "8.3 MB",
+    "file": "0762-prime-number-of-set-bits-in-binary-representation.cpp"
+  },
+  {
+    "number": 799,
+    "title": "Champagne Tower",
+    "slug": "champagne-tower",
+    "link": "https://leetcode.com/problems/champagne-tower/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.8 MB",
+    "file": "0799-champagne-tower.cpp"
+  },
+  {
+    "number": 840,
+    "title": "Magic Squares In Grid",
+    "slug": "magic-squares-in-grid",
+    "link": "https://leetcode.com/problems/magic-squares-in-grid/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "11.6 MB",
+    "file": "0840-magic-squares-in-grid.cpp"
+  },
+  {
+    "number": 852,
+    "title": "Peak Index in a Mountain Array",
+    "slug": "peak-index-in-a-mountain-array",
+    "link": "https://leetcode.com/problems/peak-index-in-a-mountain-array/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "63.4 MB",
+    "file": "0852-peak-index-in-a-mountain-array.cpp"
+  },
+  {
+    "number": 865,
+    "title": "Smallest Subtree with all the Deepest Nodes",
+    "slug": "smallest-subtree-with-all-the-deepest-nodes",
+    "link": "https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "16.1 MB",
+    "file": "0865-smallest-subtree-with-all-the-deepest-nodes.cpp"
+  },
+  {
+    "number": 868,
+    "title": "Binary Gap",
+    "slug": "binary-gap",
+    "link": "https://leetcode.com/problems/binary-gap/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "7.9 MB",
+    "file": "0868-binary-gap.cpp"
+  },
+  {
+    "number": 876,
+    "title": "Middle of the Linked List",
+    "slug": "middle-of-the-linked-list",
+    "link": "https://leetcode.com/problems/middle-of-the-linked-list/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "10 MB",
+    "file": "0876-middle-of-the-linked-list.cpp"
+  },
+  {
+    "number": 877,
+    "title": "Stone Game",
+    "slug": "stone-game",
+    "link": "https://leetcode.com/problems/stone-game/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "10.3 MB",
+    "file": "0877-stone-game.cpp"
+  },
+  {
+    "number": 904,
+    "title": "Fruit Into Baskets",
+    "slug": "fruit-into-baskets",
+    "link": "https://leetcode.com/problems/fruit-into-baskets/",
+    "language": "cpp",
+    "runtime": "43 ms",
+    "memory": "84.9 MB",
+    "file": "0904-fruit-into-baskets.cpp"
+  },
+  {
+    "number": 918,
+    "title": "Maximum Sum Circular Subarray",
+    "slug": "maximum-sum-circular-subarray",
+    "link": "https://leetcode.com/problems/maximum-sum-circular-subarray/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "43.7 MB",
+    "file": "0918-maximum-sum-circular-subarray.cpp"
+  },
+  {
+    "number": 921,
+    "title": "Minimum Add to Make Parentheses Valid",
+    "slug": "minimum-add-to-make-parentheses-valid",
+    "link": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.3 MB",
+    "file": "0921-minimum-add-to-make-parentheses-valid.cpp"
+  },
+  {
+    "number": 929,
+    "title": "Unique Email Addresses",
+    "slug": "unique-email-addresses",
+    "link": "https://leetcode.com/problems/unique-email-addresses/",
+    "language": "cpp",
+    "runtime": "15 ms",
+    "memory": "20.6 MB",
+    "file": "0929-unique-email-addresses.cpp"
+  },
+  {
+    "number": 941,
+    "title": "Valid Mountain Array",
+    "slug": "valid-mountain-array",
+    "link": "https://leetcode.com/problems/valid-mountain-array/",
+    "language": "cpp",
+    "runtime": "16 ms",
+    "memory": "26.1 MB",
+    "file": "0941-valid-mountain-array.cpp"
+  },
+  {
+    "number": 944,
+    "title": "Delete Columns to Make Sorted",
+    "slug": "delete-columns-to-make-sorted",
+    "link": "https://leetcode.com/problems/delete-columns-to-make-sorted/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "15.6 MB",
+    "file": "0944-delete-columns-to-make-sorted.cpp"
+  },
+  {
+    "number": 955,
+    "title": "Delete Columns to Make Sorted II",
+    "slug": "delete-columns-to-make-sorted-ii",
+    "link": "https://leetcode.com/problems/delete-columns-to-make-sorted-ii/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "12.8 MB",
+    "file": "0955-delete-columns-to-make-sorted-ii.cpp"
+  },
+  {
+    "number": 960,
+    "title": "Delete Columns to Make Sorted III",
+    "slug": "delete-columns-to-make-sorted-iii",
+    "link": "https://leetcode.com/problems/delete-columns-to-make-sorted-iii/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "13.6 MB",
+    "file": "0960-delete-columns-to-make-sorted-iii.cpp"
+  },
+  {
+    "number": 961,
+    "title": "N-Repeated Element in Size 2N Array",
+    "slug": "n-repeated-element-in-size-2n-array",
+    "link": "https://leetcode.com/problems/n-repeated-element-in-size-2n-array/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "28.5 MB",
+    "file": "0961-n-repeated-element-in-size-2n-array.cpp"
+  },
+  {
+    "number": 977,
+    "title": "Squares of a Sorted Array",
+    "slug": "squares-of-a-sorted-array",
+    "link": "https://leetcode.com/problems/squares-of-a-sorted-array/",
+    "language": "cpp",
+    "runtime": "4 ms",
+    "memory": "31.8 MB",
+    "file": "0977-squares-of-a-sorted-array.cpp"
+  },
+  {
+    "number": 994,
+    "title": "Rotting Oranges",
+    "slug": "rotting-oranges",
+    "link": "https://leetcode.com/problems/rotting-oranges/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "17.3 MB",
+    "file": "0994-rotting-oranges.cpp"
+  },
+  {
+    "number": 1015,
+    "title": "Smallest Integer Divisible by K",
+    "slug": "smallest-integer-divisible-by-k",
+    "link": "https://leetcode.com/problems/smallest-integer-divisible-by-k/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "7.8 MB",
+    "file": "1015-smallest-integer-divisible-by-k.cpp"
+  },
+  {
+    "number": 1018,
+    "title": "Binary Prefix Divisible By 5",
+    "slug": "binary-prefix-divisible-by-5",
+    "link": "https://leetcode.com/problems/binary-prefix-divisible-by-5/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "18.3 MB",
+    "file": "1018-binary-prefix-divisible-by-5.cpp"
+  },
+  {
+    "number": 1022,
+    "title": "Sum of Root To Leaf Binary Numbers",
+    "slug": "sum-of-root-to-leaf-binary-numbers",
+    "link": "https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "17.4 MB",
+    "file": "1022-sum-of-root-to-leaf-binary-numbers.cpp"
+  },
+  {
+    "number": 1123,
+    "title": "Lowest Common Ancestor of Deepest Leaves",
+    "slug": "lowest-common-ancestor-of-deepest-leaves",
+    "link": "https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "22 MB",
+    "file": "1123-lowest-common-ancestor-of-deepest-leaves.cpp"
+  },
+  {
+    "number": 1161,
+    "title": "Maximum Level Sum of a Binary Tree",
+    "slug": "maximum-level-sum-of-a-binary-tree",
+    "link": "https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "109.6 MB",
+    "file": "1161-maximum-level-sum-of-a-binary-tree.cpp"
+  },
+  {
+    "number": 1186,
+    "title": "Maximum Subarray Sum with One Deletion",
+    "slug": "maximum-subarray-sum-with-one-deletion",
+    "link": "https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "27.1 MB",
+    "file": "1186-maximum-subarray-sum-with-one-deletion.cpp"
+  },
+  {
+    "number": 1189,
+    "title": "Maximum Number of Balloons",
+    "slug": "maximum-number-of-balloons",
+    "link": "https://leetcode.com/problems/maximum-number-of-balloons/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "9.1 MB",
+    "file": "1189-maximum-number-of-balloons.cpp"
+  },
+  {
+    "number": 1200,
+    "title": "Minimum Absolute Difference",
+    "slug": "minimum-absolute-difference",
+    "link": "https://leetcode.com/problems/minimum-absolute-difference/",
+    "language": "cpp",
+    "runtime": "15 ms",
+    "memory": "36.7 MB",
+    "file": "1200-minimum-absolute-difference.cpp"
+  },
+  {
+    "number": 1262,
+    "title": "Greatest Sum Divisible by Three",
+    "slug": "greatest-sum-divisible-by-three",
+    "link": "https://leetcode.com/problems/greatest-sum-divisible-by-three/",
+    "language": "cpp",
+    "runtime": "31 ms",
+    "memory": "42.5 MB",
+    "file": "1262-greatest-sum-divisible-by-three.cpp"
+  },
+  {
+    "number": 1266,
+    "title": "Minimum Time Visiting All Points",
+    "slug": "minimum-time-visiting-all-points",
+    "link": "https://leetcode.com/problems/minimum-time-visiting-all-points/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "13.6 MB",
+    "file": "1266-minimum-time-visiting-all-points.cpp"
+  },
+  {
+    "number": 1292,
+    "title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+    "slug": "maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+    "link": "https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "33 MB",
+    "file": "1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold.cpp"
+  },
+  {
+    "number": 1306,
+    "title": "Jump Game III",
+    "slug": "jump-game-iii",
+    "link": "https://leetcode.com/problems/jump-game-iii/",
+    "language": "cpp",
+    "runtime": "4 ms",
+    "memory": "40.9 MB",
+    "file": "1306-jump-game-iii.cpp"
+  },
+  {
+    "number": 1339,
+    "title": "Maximum Product of Splitted Binary Tree",
+    "slug": "maximum-product-of-splitted-binary-tree",
+    "link": "https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "78.1 MB",
+    "file": "1339-maximum-product-of-splitted-binary-tree.cpp"
+  },
+  {
+    "number": 1351,
+    "title": "Count Negative Numbers in a Sorted Matrix",
+    "slug": "count-negative-numbers-in-a-sorted-matrix",
+    "link": "https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "14 MB",
+    "file": "1351-count-negative-numbers-in-a-sorted-matrix.cpp"
+  },
+  {
+    "number": 1356,
+    "title": "Sort Integers by The Number of 1 Bits",
+    "slug": "sort-integers-by-the-number-of-1-bits",
+    "link": "https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "14.3 MB",
+    "file": "1356-sort-integers-by-the-number-of-1-bits.cpp"
+  },
+  {
+    "number": 1382,
+    "title": "Balance a Binary Search Tree",
+    "slug": "balance-a-binary-search-tree",
+    "link": "https://leetcode.com/problems/balance-a-binary-search-tree/",
+    "language": "cpp",
+    "runtime": "14 ms",
+    "memory": "65.8 MB",
+    "file": "1382-balance-a-binary-search-tree.cpp"
+  },
+  {
+    "number": 1390,
+    "title": "Four Divisors",
+    "slug": "four-divisors",
+    "link": "https://leetcode.com/problems/four-divisors/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "16.1 MB",
+    "file": "1390-four-divisors.cpp"
+  },
+  {
+    "number": 1391,
+    "title": "Check if There is a Valid Path in a Grid",
+    "slug": "check-if-there-is-a-valid-path-in-a-grid",
+    "link": "https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/",
+    "language": "cpp",
+    "runtime": "27 ms",
+    "memory": "71.7 MB",
+    "file": "1391-check-if-there-is-a-valid-path-in-a-grid.cpp"
+  },
+  {
+    "number": 1404,
+    "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+    "slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+    "link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.9 MB",
+    "file": "1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one.cpp"
+  },
+  {
+    "number": 1411,
+    "title": "Number of Ways to Paint N \u00d7 3 Grid",
+    "slug": "number-of-ways-to-paint-n-3-grid",
+    "link": "https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "7.7 MB",
+    "file": "1411-number-of-ways-to-paint-n-3-grid.cpp"
+  },
+  {
+    "number": 1437,
+    "title": "Check If All 1's Are at Least Length K Places Away",
+    "slug": "check-if-all-1s-are-at-least-length-k-places-away",
+    "link": "https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "61.5 MB",
+    "file": "1437-check-if-all-1s-are-at-least-length-k-places-away.cpp"
+  },
+  {
+    "number": 1458,
+    "title": "Max Dot Product of Two Subsequences",
+    "slug": "max-dot-product-of-two-subsequences",
+    "link": "https://leetcode.com/problems/max-dot-product-of-two-subsequences/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "15.3 MB",
+    "file": "1458-max-dot-product-of-two-subsequences.cpp"
+  },
+  {
+    "number": 1461,
+    "title": "Check If a String Contains All Binary Codes of Size K",
+    "slug": "check-if-a-string-contains-all-binary-codes-of-size-k",
+    "link": "https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "119.3 MB",
+    "file": "1461-check-if-a-string-contains-all-binary-codes-of-size-k.cpp"
+  },
+  {
+    "number": 1513,
+    "title": "Number of Substrings With Only 1s",
+    "slug": "number-of-substrings-with-only-1s",
+    "link": "https://leetcode.com/problems/number-of-substrings-with-only-1s/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "11.5 MB",
+    "file": "1513-number-of-substrings-with-only-1s.cpp"
+  },
+  {
+    "number": 1523,
+    "title": "Count Odd Numbers in an Interval Range",
+    "slug": "count-odd-numbers-in-an-interval-range",
+    "link": "https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "7.9 MB",
+    "file": "1523-count-odd-numbers-in-an-interval-range.cpp"
+  },
+  {
+    "number": 1526,
+    "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+    "slug": "minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+    "link": "https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "77 MB",
+    "file": "1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array.cpp"
+  },
+  {
+    "number": 1528,
+    "title": "Shuffle String",
+    "slug": "shuffle-string",
+    "link": "https://leetcode.com/problems/shuffle-string/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "18.9 MB",
+    "file": "1528-shuffle-string.cpp"
+  },
+  {
+    "number": 1545,
+    "title": "Find Kth Bit in Nth Binary String",
+    "slug": "find-kth-bit-in-nth-binary-string",
+    "link": "https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "7.7 MB",
+    "file": "1545-find-kth-bit-in-nth-binary-string.cpp"
+  },
+  {
+    "number": 1578,
+    "title": "Minimum Time to Make Rope Colorful",
+    "slug": "minimum-time-to-make-rope-colorful",
+    "link": "https://leetcode.com/problems/minimum-time-to-make-rope-colorful/",
+    "language": "cpp",
+    "runtime": "7 ms",
+    "memory": "99.8 MB",
+    "file": "1578-minimum-time-to-make-rope-colorful.cpp"
+  },
+  {
+    "number": 1590,
+    "title": "Make Sum Divisible by P",
+    "slug": "make-sum-divisible-by-p",
+    "link": "https://leetcode.com/problems/make-sum-divisible-by-p/",
+    "language": "cpp",
+    "runtime": "69 ms",
+    "memory": "87.9 MB",
+    "file": "1590-make-sum-divisible-by-p.cpp"
+  },
+  {
+    "number": 1611,
+    "title": "Minimum One Bit Operations to Make Integers Zero",
+    "slug": "minimum-one-bit-operations-to-make-integers-zero",
+    "link": "https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.2 MB",
+    "file": "1611-minimum-one-bit-operations-to-make-integers-zero.cpp"
+  },
+  {
+    "number": 1625,
+    "title": "Lexicographically Smallest String After Applying Operations",
+    "slug": "lexicographically-smallest-string-after-applying-operations",
+    "link": "https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/",
+    "language": "cpp",
+    "runtime": "230 ms",
+    "memory": "116.3 MB",
+    "file": "1625-lexicographically-smallest-string-after-applying-operations.cpp"
+  },
+  {
+    "number": 1653,
+    "title": "Minimum Deletions to Make String Balanced",
+    "slug": "minimum-deletions-to-make-string-balanced",
+    "link": "https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "25.6 MB",
+    "file": "1653-minimum-deletions-to-make-string-balanced.cpp"
+  },
+  {
+    "number": 1680,
+    "title": "Concatenation of Consecutive Binary Numbers",
+    "slug": "concatenation-of-consecutive-binary-numbers",
+    "link": "https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/",
+    "language": "cpp",
+    "runtime": "44 ms",
+    "memory": "8 MB",
+    "file": "1680-concatenation-of-consecutive-binary-numbers.cpp"
+  },
+  {
+    "number": 1689,
+    "title": "Partitioning Into Minimum Number Of Deci-Binary Numbers",
+    "slug": "partitioning-into-minimum-number-of-deci-binary-numbers",
+    "link": "https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "16.7 MB",
+    "file": "1689-partitioning-into-minimum-number-of-deci-binary-numbers.cpp"
+  },
+  {
+    "number": 1716,
+    "title": "Calculate Money in Leetcode Bank",
+    "slug": "calculate-money-in-leetcode-bank",
+    "link": "https://leetcode.com/problems/calculate-money-in-leetcode-bank/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "7.9 MB",
+    "file": "1716-calculate-money-in-leetcode-bank.cpp"
+  },
+  {
+    "number": 1749,
+    "title": "Maximum Absolute Sum of Any Subarray",
+    "slug": "maximum-absolute-sum-of-any-subarray",
+    "link": "https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "44.8 MB",
+    "file": "1749-maximum-absolute-sum-of-any-subarray.cpp"
+  },
+  {
+    "number": 1752,
+    "title": "Check if Array Is Sorted and Rotated",
+    "slug": "check-if-array-is-sorted-and-rotated",
+    "link": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "11.1 MB",
+    "file": "1752-check-if-array-is-sorted-and-rotated.cpp"
+  },
+  {
+    "number": 1833,
+    "title": "Maximum Ice Cream Bars",
+    "slug": "maximum-ice-cream-bars",
+    "link": "https://leetcode.com/problems/maximum-ice-cream-bars/",
+    "language": "cpp",
+    "runtime": "36 ms",
+    "memory": "80.3 MB",
+    "file": "1833-maximum-ice-cream-bars.cpp"
+  },
+  {
+    "number": 1871,
+    "title": "Jump Game VII",
+    "slug": "jump-game-vii",
+    "link": "https://leetcode.com/problems/jump-game-vii/",
+    "language": "cpp",
+    "runtime": "9 ms",
+    "memory": "23.8 MB",
+    "file": "1871-jump-game-vii.cpp"
+  },
+  {
+    "number": 1877,
+    "title": "Minimize Maximum Pair Sum in Array",
+    "slug": "minimize-maximum-pair-sum-in-array",
+    "link": "https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/",
+    "language": "cpp",
+    "runtime": "166 ms",
+    "memory": "100.1 MB",
+    "file": "1877-minimize-maximum-pair-sum-in-array.cpp"
+  },
+  {
+    "number": 1895,
+    "title": "Largest Magic Square",
+    "slug": "largest-magic-square",
+    "link": "https://leetcode.com/problems/largest-magic-square/",
+    "language": "cpp",
+    "runtime": "4 ms",
+    "memory": "14.2 MB",
+    "file": "1895-largest-magic-square.cpp"
+  },
+  {
+    "number": 1925,
+    "title": "Count Square Sum Triples",
+    "slug": "count-square-sum-triples",
+    "link": "https://leetcode.com/problems/count-square-sum-triples/",
+    "language": "cpp",
+    "runtime": "4 ms",
+    "memory": "7.9 MB",
+    "file": "1925-count-square-sum-triples.cpp"
+  },
+  {
+    "number": 1929,
+    "title": "Concatenation of Array",
+    "slug": "concatenation-of-array",
+    "link": "https://leetcode.com/problems/concatenation-of-array/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "17.1 MB",
+    "file": "1929-concatenation-of-array.cpp"
+  },
+  {
+    "number": 1930,
+    "title": "Unique Length-3 Palindromic Subsequences",
+    "slug": "unique-length-3-palindromic-subsequences",
+    "link": "https://leetcode.com/problems/unique-length-3-palindromic-subsequences/",
+    "language": "cpp",
+    "runtime": "149 ms",
+    "memory": "15.9 MB",
+    "file": "1930-unique-length-3-palindromic-subsequences.cpp"
+  },
+  {
+    "number": 1970,
+    "title": "Last Day Where You Can Still Cross",
+    "slug": "last-day-where-you-can-still-cross",
+    "link": "https://leetcode.com/problems/last-day-where-you-can-still-cross/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "175.2 MB",
+    "file": "1970-last-day-where-you-can-still-cross.cpp"
+  },
+  {
+    "number": 1975,
+    "title": "Maximum Matrix Sum",
+    "slug": "maximum-matrix-sum",
+    "link": "https://leetcode.com/problems/maximum-matrix-sum/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "39.1 MB",
+    "file": "1975-maximum-matrix-sum.cpp"
+  },
+  {
+    "number": 1984,
+    "title": "Minimum Difference Between Highest and Lowest of K Scores",
+    "slug": "minimum-difference-between-highest-and-lowest-of-k-scores",
+    "link": "https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "17.3 MB",
+    "file": "1984-minimum-difference-between-highest-and-lowest-of-k-scores.cpp"
+  },
+  {
+    "number": 2011,
+    "title": "Final Value of Variable After Performing Operations",
+    "slug": "final-value-of-variable-after-performing-operations",
+    "link": "https://leetcode.com/problems/final-value-of-variable-after-performing-operations/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "17.5 MB",
+    "file": "2011-final-value-of-variable-after-performing-operations.cpp"
+  },
+  {
+    "number": 2043,
+    "title": "Simple Bank System",
+    "slug": "simple-bank-system",
+    "link": "https://leetcode.com/problems/simple-bank-system/",
+    "language": "cpp",
+    "runtime": "11 ms",
+    "memory": "123.5 MB",
+    "file": "2043-simple-bank-system.cpp"
+  },
+  {
+    "number": 2048,
+    "title": "Next Greater Numerically Balanced Number",
+    "slug": "next-greater-numerically-balanced-number",
+    "link": "https://leetcode.com/problems/next-greater-numerically-balanced-number/",
+    "language": "cpp",
+    "runtime": "548 ms",
+    "memory": "254.9 MB",
+    "file": "2048-next-greater-numerically-balanced-number.cpp"
+  },
+  {
+    "number": 2054,
+    "title": "Two Best Non-Overlapping Events",
+    "slug": "two-best-non-overlapping-events",
+    "link": "https://leetcode.com/problems/two-best-non-overlapping-events/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "162.2 MB",
+    "file": "2054-two-best-non-overlapping-events.cpp"
+  },
+  {
+    "number": 2092,
+    "title": "Find All People With Secret",
+    "slug": "find-all-people-with-secret",
+    "link": "https://leetcode.com/problems/find-all-people-with-secret/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "445.9 MB",
+    "file": "2092-find-all-people-with-secret.cpp"
+  },
+  {
+    "number": 2110,
+    "title": "Number of Smooth Descent Periods of a Stock",
+    "slug": "number-of-smooth-descent-periods-of-a-stock",
+    "link": "https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "107.2 MB",
+    "file": "2110-number-of-smooth-descent-periods-of-a-stock.cpp"
+  },
+  {
+    "number": 2125,
+    "title": "Number of Laser Beams in a Bank",
+    "slug": "number-of-laser-beams-in-a-bank",
+    "link": "https://leetcode.com/problems/number-of-laser-beams-in-a-bank/",
+    "language": "cpp",
+    "runtime": "9 ms",
+    "memory": "27.3 MB",
+    "file": "2125-number-of-laser-beams-in-a-bank.cpp"
+  },
+  {
+    "number": 2141,
+    "title": "Maximum Running Time of N Computers",
+    "slug": "maximum-running-time-of-n-computers",
+    "link": "https://leetcode.com/problems/maximum-running-time-of-n-computers/",
+    "language": "cpp",
+    "runtime": "19 ms",
+    "memory": "59.7 MB",
+    "file": "2141-maximum-running-time-of-n-computers.cpp"
+  },
+  {
+    "number": 2144,
+    "title": "Minimum Cost of Buying Candies With Discount",
+    "slug": "minimum-cost-of-buying-candies-with-discount",
+    "link": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "17.1 MB",
+    "file": "2144-minimum-cost-of-buying-candies-with-discount.cpp"
+  },
+  {
+    "number": 2147,
+    "title": "Number of Ways to Divide a Long Corridor",
+    "slug": "number-of-ways-to-divide-a-long-corridor",
+    "link": "https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "33.7 MB",
+    "file": "2147-number-of-ways-to-divide-a-long-corridor.cpp"
+  },
+  {
+    "number": 2149,
+    "title": "Rearrange Array Elements by Sign",
+    "slug": "rearrange-array-elements-by-sign",
+    "link": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
+    "language": "cpp",
+    "runtime": "1 ms",
+    "memory": "128.4 MB",
+    "file": "2149-rearrange-array-elements-by-sign.cpp"
+  },
+  {
+    "number": 2154,
+    "title": "Keep Multiplying Found Values by Two",
+    "slug": "keep-multiplying-found-values-by-two",
+    "link": "https://leetcode.com/problems/keep-multiplying-found-values-by-two/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "14.2 MB",
+    "file": "2154-keep-multiplying-found-values-by-two.cpp"
+  },
+  {
+    "number": 2169,
+    "title": "Count Operations to Obtain Zero",
+    "slug": "count-operations-to-obtain-zero",
+    "link": "https://leetcode.com/problems/count-operations-to-obtain-zero/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "7.9 MB",
+    "file": "2169-count-operations-to-obtain-zero.cpp"
+  },
+  {
+    "number": 2211,
+    "title": "Count Collisions on a Road",
+    "slug": "count-collisions-on-a-road",
+    "link": "https://leetcode.com/problems/count-collisions-on-a-road/",
+    "language": "cpp",
+    "runtime": "7 ms",
+    "memory": "19.1 MB",
+    "file": "2211-count-collisions-on-a-road.cpp"
+  },
+  {
+    "number": 2220,
+    "title": "Minimum Bit Flips to Convert Number",
+    "slug": "minimum-bit-flips-to-convert-number",
+    "link": "https://leetcode.com/problems/minimum-bit-flips-to-convert-number/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "7.9 MB",
+    "file": "2220-minimum-bit-flips-to-convert-number.cpp"
+  },
+  {
+    "number": 2257,
+    "title": "Count Unguarded Cells in the Grid",
+    "slug": "count-unguarded-cells-in-the-grid",
+    "link": "https://leetcode.com/problems/count-unguarded-cells-in-the-grid/",
+    "language": "cpp",
+    "runtime": "212 ms",
+    "memory": "209.2 MB",
+    "file": "2257-count-unguarded-cells-in-the-grid.cpp"
+  },
+  {
+    "number": 2259,
+    "title": "Remove Digit From Number to Maximize Result",
+    "slug": "remove-digit-from-number-to-maximize-result",
+    "link": "https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.3 MB",
+    "file": "2259-remove-digit-from-number-to-maximize-result.cpp"
+  },
+  {
+    "number": 2264,
+    "title": "Largest 3-Same-Digit Number in String",
+    "slug": "largest-3-same-digit-number-in-string",
+    "link": "https://leetcode.com/problems/largest-3-same-digit-number-in-string/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "9.2 MB",
+    "file": "2264-largest-3-same-digit-number-in-string.cpp"
+  },
+  {
+    "number": 2396,
+    "title": "Strictly Palindromic Number",
+    "slug": "strictly-palindromic-number",
+    "link": "https://leetcode.com/problems/strictly-palindromic-number/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "7.6 MB",
+    "file": "2396-strictly-palindromic-number.cpp"
+  },
+  {
+    "number": 2402,
+    "title": "Meeting Rooms III",
+    "slug": "meeting-rooms-iii",
+    "link": "https://leetcode.com/problems/meeting-rooms-iii/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "98.1 MB",
+    "file": "2402-meeting-rooms-iii.cpp"
+  },
+  {
+    "number": 2435,
+    "title": "Paths in Matrix Whose Sum Is Divisible by K",
+    "slug": "paths-in-matrix-whose-sum-is-divisible-by-k",
+    "link": "https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/",
+    "language": "cpp",
+    "runtime": "63 ms",
+    "memory": "58.2 MB",
+    "file": "2435-paths-in-matrix-whose-sum-is-divisible-by-k.cpp"
+  },
+  {
+    "number": 2483,
+    "title": "Minimum Penalty for a Shop",
+    "slug": "minimum-penalty-for-a-shop",
+    "link": "https://leetcode.com/problems/minimum-penalty-for-a-shop/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "13.2 MB",
+    "file": "2483-minimum-penalty-for-a-shop.cpp"
+  },
+  {
+    "number": 2528,
+    "title": "Maximize the Minimum Powered City",
+    "slug": "maximize-the-minimum-powered-city",
+    "link": "https://leetcode.com/problems/maximize-the-minimum-powered-city/",
+    "language": "cpp",
+    "runtime": "63 ms",
+    "memory": "227.7 MB",
+    "file": "2528-maximize-the-minimum-powered-city.cpp"
+  },
+  {
+    "number": 2536,
+    "title": "Increment Submatrices by One",
+    "slug": "increment-submatrices-by-one",
+    "link": "https://leetcode.com/problems/increment-submatrices-by-one/",
+    "language": "cpp",
+    "runtime": "43 ms",
+    "memory": "86.2 MB",
+    "file": "2536-increment-submatrices-by-one.cpp"
+  },
+  {
+    "number": 2540,
+    "title": "Minimum Common Value",
+    "slug": "minimum-common-value",
+    "link": "https://leetcode.com/problems/minimum-common-value/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "54.5 MB",
+    "file": "2540-minimum-common-value.cpp"
+  },
+  {
+    "number": 2596,
+    "title": "Check Knight Tour Configuration",
+    "slug": "check-knight-tour-configuration",
+    "link": "https://leetcode.com/problems/check-knight-tour-configuration/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "31.7 MB",
+    "file": "2596-check-knight-tour-configuration.cpp"
+  },
+  {
+    "number": 2654,
+    "title": "Minimum Number of Operations to Make All Array Elements Equal to 1",
+    "slug": "minimum-number-of-operations-to-make-all-array-elements-equal-to-1",
+    "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-all-array-elements-equal-to-1/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "31.7 MB",
+    "file": "2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1.cpp"
+  },
+  {
+    "number": 2657,
+    "title": "Find the Prefix Common Array of Two Arrays",
+    "slug": "find-the-prefix-common-array-of-two-arrays",
+    "link": "https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/",
+    "language": "cpp",
+    "runtime": "7 ms",
+    "memory": "86.3 MB",
+    "file": "2657-find-the-prefix-common-array-of-two-arrays.cpp"
+  },
+  {
+    "number": 2833,
+    "title": "Furthest Point From Origin",
+    "slug": "furthest-point-from-origin",
+    "link": "https://leetcode.com/problems/furthest-point-from-origin/",
+    "language": "cpp",
+    "runtime": "2 ms",
+    "memory": "9 MB",
+    "file": "2833-furthest-point-from-origin.cpp"
+  },
+  {
+    "number": 2872,
+    "title": "Maximum Number of K-Divisible Components",
+    "slug": "maximum-number-of-k-divisible-components",
+    "link": "https://leetcode.com/problems/maximum-number-of-k-divisible-components/",
+    "language": "cpp",
+    "runtime": "96 ms",
+    "memory": "174.2 MB",
+    "file": "2872-maximum-number-of-k-divisible-components.cpp"
+  },
+  {
+    "number": 2943,
+    "title": "Maximize Area of Square Hole in Grid",
+    "slug": "maximize-area-of-square-hole-in-grid",
+    "link": "https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "31.9 MB",
+    "file": "2943-maximize-area-of-square-hole-in-grid.cpp"
+  },
+  {
+    "number": 2975,
+    "title": "Maximum Square Area by Removing Fences From a Field",
+    "slug": "maximum-square-area-by-removing-fences-from-a-field",
+    "link": "https://leetcode.com/problems/maximum-square-area-by-removing-fences-from-a-field/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "267.1 MB",
+    "file": "2975-maximum-square-area-by-removing-fences-from-a-field.cpp"
+  },
+  {
+    "number": 2976,
+    "title": "Minimum Cost to Convert String I",
+    "slug": "minimum-cost-to-convert-string-i",
+    "link": "https://leetcode.com/problems/minimum-cost-to-convert-string-i/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "100.4 MB",
+    "file": "2976-minimum-cost-to-convert-string-i.cpp"
+  },
+  {
+    "number": 2977,
+    "title": "Minimum Cost to Convert String II",
+    "slug": "minimum-cost-to-convert-string-ii",
+    "link": "https://leetcode.com/problems/minimum-cost-to-convert-string-ii/",
+    "language": "cpp",
+    "runtime": "561 ms",
+    "memory": "247.7 MB",
+    "file": "2977-minimum-cost-to-convert-string-ii.cpp"
+  },
+  {
+    "number": 3010,
+    "title": "Divide an Array Into Subarrays With Minimum Cost I",
+    "slug": "divide-an-array-into-subarrays-with-minimum-cost-i",
+    "link": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "30.4 MB",
+    "file": "3010-divide-an-array-into-subarrays-with-minimum-cost-i.cpp"
+  },
+  {
+    "number": 3013,
+    "title": "Divide an Array Into Subarrays With Minimum Cost II",
+    "slug": "divide-an-array-into-subarrays-with-minimum-cost-ii",
+    "link": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "184 MB",
+    "file": "3013-divide-an-array-into-subarrays-with-minimum-cost-ii.cpp"
+  },
+  {
+    "number": 3043,
+    "title": "Find the Length of the Longest Common Prefix",
+    "slug": "find-the-length-of-the-longest-common-prefix",
+    "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/",
+    "language": "cpp",
+    "runtime": "344 ms",
+    "memory": "152.9 MB",
+    "file": "3043-find-the-length-of-the-longest-common-prefix.cpp"
+  },
+  {
+    "number": 3047,
+    "title": "Find the Largest Area of Square Inside Two Rectangles",
+    "slug": "find-the-largest-area-of-square-inside-two-rectangles",
+    "link": "https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "59.5 MB",
+    "file": "3047-find-the-largest-area-of-square-inside-two-rectangles.cpp"
+  },
+  {
+    "number": 3074,
+    "title": "Apple Redistribution into Boxes",
+    "slug": "apple-redistribution-into-boxes",
+    "link": "https://leetcode.com/problems/apple-redistribution-into-boxes/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "33 MB",
+    "file": "3074-apple-redistribution-into-boxes.cpp"
+  },
+  {
+    "number": 3075,
+    "title": "Maximize Happiness of Selected Children",
+    "slug": "maximize-happiness-of-selected-children",
+    "link": "https://leetcode.com/problems/maximize-happiness-of-selected-children/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "108 MB",
+    "file": "3075-maximize-happiness-of-selected-children.cpp"
+  },
+  {
+    "number": 3120,
+    "title": "Count the Number of Special Characters I",
+    "slug": "count-the-number-of-special-characters-i",
+    "link": "https://leetcode.com/problems/count-the-number-of-special-characters-i/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.9 MB",
+    "file": "3120-count-the-number-of-special-characters-i.cpp"
+  },
+  {
+    "number": 3121,
+    "title": "Count the Number of Special Characters II",
+    "slug": "count-the-number-of-special-characters-ii",
+    "link": "https://leetcode.com/problems/count-the-number-of-special-characters-ii/",
+    "language": "cpp",
+    "runtime": "77 ms",
+    "memory": "24.5 MB",
+    "file": "3121-count-the-number-of-special-characters-ii.cpp"
+  },
+  {
+    "number": 3190,
+    "title": "Find Minimum Operations to Make All Elements Divisible by Three",
+    "slug": "find-minimum-operations-to-make-all-elements-divisible-by-three",
+    "link": "https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "23.3 MB",
+    "file": "3190-find-minimum-operations-to-make-all-elements-divisible-by-three.cpp"
+  },
+  {
+    "number": 3217,
+    "title": "Delete Nodes From Linked List Present in Array",
+    "slug": "delete-nodes-from-linked-list-present-in-array",
+    "link": "https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/",
+    "language": "cpp",
+    "runtime": "100 ms",
+    "memory": "263.4 MB",
+    "file": "3217-delete-nodes-from-linked-list-present-in-array.cpp"
+  },
+  {
+    "number": 3228,
+    "title": "Maximum Number of Operations to Move Ones to the End",
+    "slug": "maximum-number-of-operations-to-move-ones-to-the-end",
+    "link": "https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "15.8 MB",
+    "file": "3228-maximum-number-of-operations-to-move-ones-to-the-end.cpp"
+  },
+  {
+    "number": 3234,
+    "title": "Count the Number of Substrings With Dominant Ones",
+    "slug": "count-the-number-of-substrings-with-dominant-ones",
+    "link": "https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/",
+    "language": "cpp",
+    "runtime": "1474 ms",
+    "memory": "18.2 MB",
+    "file": "3234-count-the-number-of-substrings-with-dominant-ones.cpp"
+  },
+  {
+    "number": 3289,
+    "title": "The Two Sneaky Numbers of Digitville",
+    "slug": "the-two-sneaky-numbers-of-digitville",
+    "link": "https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "26 MB",
+    "file": "3289-the-two-sneaky-numbers-of-digitville.cpp"
+  },
+  {
+    "number": 3314,
+    "title": "Construct the Minimum Bitwise Array I",
+    "slug": "construct-the-minimum-bitwise-array-i",
+    "link": "https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "25.2 MB",
+    "file": "3314-construct-the-minimum-bitwise-array-i.cpp"
+  },
+  {
+    "number": 3315,
+    "title": "Construct the Minimum Bitwise Array II",
+    "slug": "construct-the-minimum-bitwise-array-ii",
+    "link": "https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "28.4 MB",
+    "file": "3315-construct-the-minimum-bitwise-array-ii.cpp"
+  },
+  {
+    "number": 3318,
+    "title": "Find X-Sum of All K-Long Subarrays I",
+    "slug": "find-x-sum-of-all-k-long-subarrays-i",
+    "link": "https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/",
+    "language": "cpp",
+    "runtime": "19 ms",
+    "memory": "37.4 MB",
+    "file": "3318-find-x-sum-of-all-k-long-subarrays-i.cpp"
+  },
+  {
+    "number": 3321,
+    "title": "Find X-Sum of All K-Long Subarrays II",
+    "slug": "find-x-sum-of-all-k-long-subarrays-ii",
+    "link": "https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/",
+    "language": "cpp",
+    "runtime": "746 ms",
+    "memory": "280.5 MB",
+    "file": "3321-find-x-sum-of-all-k-long-subarrays-ii.cpp"
+  },
+  {
+    "number": 3346,
+    "title": "Maximum Frequency of an Element After Performing Operations I",
+    "slug": "maximum-frequency-of-an-element-after-performing-operations-i",
+    "link": "https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/",
+    "language": "cpp",
+    "runtime": "14 ms",
+    "memory": "96.2 MB",
+    "file": "3346-maximum-frequency-of-an-element-after-performing-operations-i.cpp"
+  },
+  {
+    "number": 3347,
+    "title": "Maximum Frequency of an Element After Performing Operations II",
+    "slug": "maximum-frequency-of-an-element-after-performing-operations-ii",
+    "link": "https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/",
+    "language": "cpp",
+    "runtime": "1245 ms",
+    "memory": "286.3 MB",
+    "file": "3347-maximum-frequency-of-an-element-after-performing-operations-ii.cpp"
+  },
+  {
+    "number": 3354,
+    "title": "Make Array Elements Equal to Zero",
+    "slug": "make-array-elements-equal-to-zero",
+    "link": "https://leetcode.com/problems/make-array-elements-equal-to-zero/",
+    "language": "cpp",
+    "runtime": "230 ms",
+    "memory": "24.1 MB",
+    "file": "3354-make-array-elements-equal-to-zero.cpp"
+  },
+  {
+    "number": 3370,
+    "title": "Smallest Number With All Set Bits",
+    "slug": "smallest-number-with-all-set-bits",
+    "link": "https://leetcode.com/problems/smallest-number-with-all-set-bits/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "8.1 MB",
+    "file": "3370-smallest-number-with-all-set-bits.cpp"
+  },
+  {
+    "number": 3379,
+    "title": "Transformed Array",
+    "slug": "transformed-array",
+    "link": "https://leetcode.com/problems/transformed-array/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "25.7 MB",
+    "file": "3379-transformed-array.cpp"
+  },
+  {
+    "number": 3381,
+    "title": "Maximum Subarray Sum With Length Divisible by K",
+    "slug": "maximum-subarray-sum-with-length-divisible-by-k",
+    "link": "https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/",
+    "language": "cpp",
+    "runtime": "8 ms",
+    "memory": "171.2 MB",
+    "file": "3381-maximum-subarray-sum-with-length-divisible-by-k.cpp"
+  },
+  {
+    "number": 3392,
+    "title": "Count Subarrays of Length Three With a Condition",
+    "slug": "count-subarrays-of-length-three-with-a-condition",
+    "link": "https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/",
+    "language": "cpp",
+    "runtime": "3 ms",
+    "memory": "48.4 MB",
+    "file": "3392-count-subarrays-of-length-three-with-a-condition.cpp"
+  },
+  {
+    "number": 3432,
+    "title": "Count Partitions with Even Sum Difference",
+    "slug": "count-partitions-with-even-sum-difference",
+    "link": "https://leetcode.com/problems/count-partitions-with-even-sum-difference/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "22.4 MB",
+    "file": "3432-count-partitions-with-even-sum-difference.cpp"
+  },
+  {
+    "number": 3433,
+    "title": "Count Mentions Per User",
+    "slug": "count-mentions-per-user",
+    "link": "https://leetcode.com/problems/count-mentions-per-user/",
+    "language": "cpp",
+    "runtime": "25 ms",
+    "memory": "43.4 MB",
+    "file": "3433-count-mentions-per-user.cpp"
+  },
+  {
+    "number": 3453,
+    "title": "Separate Squares I",
+    "slug": "separate-squares-i",
+    "link": "https://leetcode.com/problems/separate-squares-i/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "198.5 MB",
+    "file": "3453-separate-squares-i.cpp"
+  },
+  {
+    "number": 3454,
+    "title": "Separate Squares II",
+    "slug": "separate-squares-ii",
+    "link": "https://leetcode.com/problems/separate-squares-ii/",
+    "language": "cpp",
+    "runtime": "367 ms",
+    "memory": "139.9 MB",
+    "file": "3454-separate-squares-ii.cpp"
+  },
+  {
+    "number": 3461,
+    "title": "Check If Digits Are Equal in String After Operations I",
+    "slug": "check-if-digits-are-equal-in-string-after-operations-i",
+    "link": "https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/",
+    "language": "cpp",
+    "runtime": "4 ms",
+    "memory": "10.1 MB",
+    "file": "3461-check-if-digits-are-equal-in-string-after-operations-i.cpp"
+  },
+  {
+    "number": 3507,
+    "title": "Minimum Pair Removal to Sort Array I",
+    "slug": "minimum-pair-removal-to-sort-array-i",
+    "link": "https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "26.5 MB",
+    "file": "3507-minimum-pair-removal-to-sort-array-i.cpp"
+  },
+  {
+    "number": 3510,
+    "title": "Minimum Pair Removal to Sort Array II",
+    "slug": "minimum-pair-removal-to-sort-array-ii",
+    "link": "https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "314.7 MB",
+    "file": "3510-minimum-pair-removal-to-sort-array-ii.cpp"
+  },
+  {
+    "number": 3512,
+    "title": "Minimum Operations to Make Array Sum Divisible by K",
+    "slug": "minimum-operations-to-make-array-sum-divisible-by-k",
+    "link": "https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "45.3 MB",
+    "file": "3512-minimum-operations-to-make-array-sum-divisible-by-k.cpp"
+  },
+  {
+    "number": 3531,
+    "title": "Count Covered Buildings",
+    "slug": "count-covered-buildings",
+    "link": "https://leetcode.com/problems/count-covered-buildings/",
+    "language": "cpp",
+    "runtime": "23 ms",
+    "memory": "283.8 MB",
+    "file": "3531-count-covered-buildings.cpp"
+  },
+  {
+    "number": 3542,
+    "title": "Minimum Operations to Convert All Elements to Zero",
+    "slug": "minimum-operations-to-convert-all-elements-to-zero",
+    "link": "https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/",
+    "language": "cpp",
+    "runtime": "36 ms",
+    "memory": "222.3 MB",
+    "file": "3542-minimum-operations-to-convert-all-elements-to-zero.cpp"
+  },
+  {
+    "number": 3562,
+    "title": "Maximum Profit from Trading Stocks with Discounts",
+    "slug": "maximum-profit-from-trading-stocks-with-discounts",
+    "link": "https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "162.5 MB",
+    "file": "3562-maximum-profit-from-trading-stocks-with-discounts.cpp"
+  },
+  {
+    "number": 3573,
+    "title": "Best Time to Buy and Sell Stock V",
+    "slug": "best-time-to-buy-and-sell-stock-v",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-v/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "343.4 MB",
+    "file": "3573-best-time-to-buy-and-sell-stock-v.cpp"
+  },
+  {
+    "number": 3577,
+    "title": "Count the Number of Computer Unlocking Permutations",
+    "slug": "count-the-number-of-computer-unlocking-permutations",
+    "link": "https://leetcode.com/problems/count-the-number-of-computer-unlocking-permutations/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "92.7 MB",
+    "file": "3577-count-the-number-of-computer-unlocking-permutations.cpp"
+  },
+  {
+    "number": 3578,
+    "title": "Count Partitions With Max-Min Difference at Most K",
+    "slug": "count-partitions-with-max-min-difference-at-most-k",
+    "link": "https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "232.3 MB",
+    "file": "3578-count-partitions-with-max-min-difference-at-most-k.cpp"
+  },
+  {
+    "number": 3583,
+    "title": "Count Special Triplets",
+    "slug": "count-special-triplets",
+    "link": "https://leetcode.com/problems/count-special-triplets/",
+    "language": "cpp",
+    "runtime": "763 ms",
+    "memory": "403 MB",
+    "file": "3583-count-special-triplets.cpp"
+  },
+  {
+    "number": 3606,
+    "title": "Coupon Code Validator",
+    "slug": "coupon-code-validator",
+    "link": "https://leetcode.com/problems/coupon-code-validator/",
+    "language": "cpp",
+    "runtime": "7 ms",
+    "memory": "70.2 MB",
+    "file": "3606-coupon-code-validator.cpp"
+  },
+  {
+    "number": 3607,
+    "title": "Power Grid Maintenance",
+    "slug": "power-grid-maintenance",
+    "link": "https://leetcode.com/problems/power-grid-maintenance/",
+    "language": "cpp",
+    "runtime": "510 ms",
+    "memory": "432.6 MB",
+    "file": "3607-power-grid-maintenance.cpp"
+  },
+  {
+    "number": 3623,
+    "title": "Count Number of Trapezoids I",
+    "slug": "count-number-of-trapezoids-i",
+    "link": "https://leetcode.com/problems/count-number-of-trapezoids-i/",
+    "language": "cpp",
+    "runtime": "59 ms",
+    "memory": "191.7 MB",
+    "file": "3623-count-number-of-trapezoids-i.cpp"
+  },
+  {
+    "number": 3625,
+    "title": "Count Number of Trapezoids II",
+    "slug": "count-number-of-trapezoids-ii",
+    "link": "https://leetcode.com/problems/count-number-of-trapezoids-ii/",
+    "language": "cpp",
+    "runtime": "2574 ms",
+    "memory": "401 MB",
+    "file": "3625-count-number-of-trapezoids-ii.cpp"
+  },
+  {
+    "number": 3633,
+    "title": "Earliest Finish Time for Land and Water Rides I",
+    "slug": "earliest-finish-time-for-land-and-water-rides-i",
+    "link": "https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/",
+    "language": "cpp",
+    "runtime": "10 ms",
+    "memory": "91.7 MB",
+    "file": "3633-earliest-finish-time-for-land-and-water-rides-i.cpp"
+  },
+  {
+    "number": 3634,
+    "title": "Minimum Removals to Balance Array",
+    "slug": "minimum-removals-to-balance-array",
+    "link": "https://leetcode.com/problems/minimum-removals-to-balance-array/",
+    "language": "cpp",
+    "runtime": "30 ms",
+    "memory": "105 MB",
+    "file": "3634-minimum-removals-to-balance-array.cpp"
+  },
+  {
+    "number": 3637,
+    "title": "Trionic Array I",
+    "slug": "trionic-array-i",
+    "link": "https://leetcode.com/problems/trionic-array-i/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "27.7 MB",
+    "file": "3637-trionic-array-i.cpp"
+  },
+  {
+    "number": 3640,
+    "title": "Trionic Array II",
+    "slug": "trionic-array-ii",
+    "link": "https://leetcode.com/problems/trionic-array-ii/",
+    "language": "cpp",
+    "runtime": "4 ms",
+    "memory": "132.6 MB",
+    "file": "3640-trionic-array-ii.cpp"
+  },
+  {
+    "number": 3650,
+    "title": "Minimum Cost Path with Edge Reversals",
+    "slug": "minimum-cost-path-with-edge-reversals",
+    "link": "https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "290.4 MB",
+    "file": "3650-minimum-cost-path-with-edge-reversals.cpp"
+  },
+  {
+    "number": 3651,
+    "title": "Minimum Cost Path with Teleportations",
+    "slug": "minimum-cost-path-with-teleportations",
+    "link": "https://leetcode.com/problems/minimum-cost-path-with-teleportations/",
+    "language": "cpp",
+    "runtime": "488 ms",
+    "memory": "130.4 MB",
+    "file": "3651-minimum-cost-path-with-teleportations.cpp"
+  },
+  {
+    "number": 3652,
+    "title": "Best Time to Buy and Sell Stock using Strategy",
+    "slug": "best-time-to-buy-and-sell-stock-using-strategy",
+    "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "316 MB",
+    "file": "3652-best-time-to-buy-and-sell-stock-using-strategy.cpp"
+  },
+  {
+    "number": 3666,
+    "title": "Minimum Operations to Equalize Binary String",
+    "slug": "minimum-operations-to-equalize-binary-string",
+    "link": "https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/",
+    "language": "cpp",
+    "runtime": "552 ms",
+    "memory": "161.5 MB",
+    "file": "3666-minimum-operations-to-equalize-binary-string.cpp"
+  },
+  {
+    "number": 3713,
+    "title": "Longest Balanced Substring I",
+    "slug": "longest-balanced-substring-i",
+    "link": "https://leetcode.com/problems/longest-balanced-substring-i/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "25.5 MB",
+    "file": "3713-longest-balanced-substring-i.cpp"
+  },
+  {
+    "number": 3714,
+    "title": "Longest Balanced Substring II",
+    "slug": "longest-balanced-substring-ii",
+    "link": "https://leetcode.com/problems/longest-balanced-substring-ii/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "242.9 MB",
+    "file": "3714-longest-balanced-substring-ii.cpp"
+  },
+  {
+    "number": 3719,
+    "title": "Longest Balanced Subarray I",
+    "slug": "longest-balanced-subarray-i",
+    "link": "https://leetcode.com/problems/longest-balanced-subarray-i/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "530.5 MB",
+    "file": "3719-longest-balanced-subarray-i.cpp"
+  },
+  {
+    "number": 3721,
+    "title": "Longest Balanced Subarray II",
+    "slug": "longest-balanced-subarray-ii",
+    "link": "https://leetcode.com/problems/longest-balanced-subarray-ii/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "164.1 MB",
+    "file": "3721-longest-balanced-subarray-ii.cpp"
+  },
+  {
+    "number": 3917,
+    "title": "Count Indices With Opposite Parity",
+    "slug": "count-indices-with-opposite-parity",
+    "link": "https://leetcode.com/problems/count-indices-with-opposite-parity/",
+    "language": "cpp",
+    "runtime": "0 ms",
+    "memory": "32.8 MB",
+    "file": "3917-count-indices-with-opposite-parity.cpp"
+  },
+  {
+    "number": 3918,
+    "title": "Sum of Primes Between Number and Its Reverse",
+    "slug": "sum-of-primes-between-number-and-its-reverse",
+    "link": "https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/",
+    "language": "cpp",
+    "runtime": "2 ms",
+    "memory": "8.5 MB",
+    "file": "3918-sum-of-primes-between-number-and-its-reverse.cpp"
+  },
+  {
+    "number": 3919,
+    "title": "Minimum Cost to Move Between Indices",
+    "slug": "minimum-cost-to-move-between-indices",
+    "link": "https://leetcode.com/problems/minimum-cost-to-move-between-indices/",
+    "language": "cpp",
+    "runtime": "18 ms",
+    "memory": "234.5 MB",
+    "file": "3919-minimum-cost-to-move-between-indices.cpp"
+  }
+]

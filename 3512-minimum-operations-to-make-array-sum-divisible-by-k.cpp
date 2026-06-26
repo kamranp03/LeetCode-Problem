@@ -1,0 +1,12 @@
+class Solution {
+public:
+    int minOperations(vector<int>& nums, int k) {
+        long long sum = 0;
+        for(int x : nums) sum += x;
+
+        int r = sum % k;  //remainder
+
+        if(r == 0) return 0;  
+        return r;          
+    }
+};
