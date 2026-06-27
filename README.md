@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/kamranp03/LeetCode-Problem/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/kamranp03/LeetCode-Problem/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/kamranp03/LeetCode-Problem/tree/master/0785-is-graph-bipartite) |
 ## Matrix
 |  |
 | ------- |
@@ -46,10 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/kamranp03/LeetCode-Problem/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/kamranp03/LeetCode-Problem/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0210-course-schedule-ii) |
+| [0785-is-graph-bipartite](https://github.com/kamranp03/LeetCode-Problem/tree/master/0785-is-graph-bipartite) |
 ## Topological Sort
 |  |
 | ------- |
@@ -58,4 +61,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kamranp03/LeetCode-Problem/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/kamranp03/LeetCode-Problem/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
