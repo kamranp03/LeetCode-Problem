@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kamranp03/LeetCode-Problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kamranp03/LeetCode-Problem/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kamranp03/LeetCode-Problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2390-removing-stars-from-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/2390-removing-stars-from-a-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/kamranp03/LeetCode-Problem/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2785-sort-vowels-in-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/2785-sort-vowels-in-a-string) |
 | [3340-check-balanced-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/3340-check-balanced-string) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/kamranp03/LeetCode-Problem/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/2390-removing-stars-from-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kamranp03/LeetCode-Problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
