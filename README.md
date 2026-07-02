@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/kamranp03/LeetCode-Problem/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/kamranp03/LeetCode-Problem/tree/master/0657-robot-return-to-origin) |
 | [2390-removing-stars-from-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
@@ -225,4 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/kamranp03/LeetCode-Problem/tree/master/0743-network-delay-time) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kamranp03/LeetCode-Problem/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/kamranp03/LeetCode-Problem/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
