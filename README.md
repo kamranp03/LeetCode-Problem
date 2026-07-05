@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/kamranp03/LeetCode-Problem/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/kamranp03/LeetCode-Problem/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/kamranp03/LeetCode-Problem/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kamranp03/LeetCode-Problem/tree/master/0217-contains-duplicate) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0778-swim-in-rising-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/kamranp03/LeetCode-Problem/tree/master/1631-path-with-minimum-effort) |
 ## Prefix Sum
