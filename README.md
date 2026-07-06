@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/kamranp03/LeetCode-Problem/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
+| [0073-set-matrix-zeroes](https://github.com/kamranp03/LeetCode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/kamranp03/LeetCode-Problem/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kamranp03/LeetCode-Problem/tree/master/0084-largest-rectangle-in-histogram) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/kamranp03/LeetCode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/kamranp03/LeetCode-Problem/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/kamranp03/LeetCode-Problem/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kamranp03/LeetCode-Problem/tree/master/0200-number-of-islands) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/kamranp03/LeetCode-Problem/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/kamranp03/LeetCode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/kamranp03/LeetCode-Problem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
