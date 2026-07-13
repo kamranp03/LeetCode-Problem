@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kamranp03/LeetCode-Problem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/kamranp03/LeetCode-Problem/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0503-next-greater-element-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0503-next-greater-element-ii) |
 | [0692-top-k-frequent-words](https://github.com/kamranp03/LeetCode-Problem/tree/master/0692-top-k-frequent-words) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/kamranp03/LeetCode-Problem/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/kamranp03/LeetCode-Problem/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/kamranp03/LeetCode-Problem/tree/master/0743-network-delay-time) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/kamranp03/LeetCode-Problem/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kamranp03/LeetCode-Problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Simulation
@@ -299,5 +302,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/kamranp03/LeetCode-Problem/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/kamranp03/LeetCode-Problem/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
