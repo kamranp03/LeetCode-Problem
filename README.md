@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/kamranp03/LeetCode-Problem/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kamranp03/LeetCode-Problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kamranp03/LeetCode-Problem/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1768-merge-strings-alternately](https://github.com/kamranp03/LeetCode-Problem/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kamranp03/LeetCode-Problem/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kamranp03/LeetCode-Problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/2390-removing-stars-from-a-string) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/kamranp03/LeetCode-Problem/tree/master/0086-partition-list) |
 | [0567-permutation-in-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/0567-permutation-in-string) |
+| [1768-merge-strings-alternately](https://github.com/kamranp03/LeetCode-Problem/tree/master/1768-merge-strings-alternately) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/kamranp03/LeetCode-Problem/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
 |  |
