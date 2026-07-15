@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/kamranp03/LeetCode-Problem/tree/master/0079-word-search) |
+| [0205-isomorphic-strings](https://github.com/kamranp03/LeetCode-Problem/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/kamranp03/LeetCode-Problem/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/0567-permutation-in-string) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/kamranp03/LeetCode-Problem/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/kamranp03/LeetCode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/kamranp03/LeetCode-Problem/tree/master/0146-lru-cache) |
+| [0205-isomorphic-strings](https://github.com/kamranp03/LeetCode-Problem/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/kamranp03/LeetCode-Problem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
