@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/kamranp03/LeetCode-Problem/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/kamranp03/LeetCode-Problem/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/kamranp03/LeetCode-Problem/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/kamranp03/LeetCode-Problem/tree/master/0657-robot-return-to-origin) |
 | [0692-top-k-frequent-words](https://github.com/kamranp03/LeetCode-Problem/tree/master/0692-top-k-frequent-words) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/kamranp03/LeetCode-Problem/tree/master/0086-partition-list) |
+| [0392-is-subsequence](https://github.com/kamranp03/LeetCode-Problem/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/kamranp03/LeetCode-Problem/tree/master/1768-merge-strings-alternately) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/kamranp03/LeetCode-Problem/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/kamranp03/LeetCode-Problem/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/kamranp03/LeetCode-Problem/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/kamranp03/LeetCode-Problem/tree/master/0392-is-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kamranp03/LeetCode-Problem/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Monotonic Stack
 |  |
