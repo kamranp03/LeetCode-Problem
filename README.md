@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/kamranp03/LeetCode-Problem/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/kamranp03/LeetCode-Problem/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/kamranp03/LeetCode-Problem/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/kamranp03/LeetCode-Problem/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/kamranp03/LeetCode-Problem/tree/master/0657-robot-return-to-origin) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kamranp03/LeetCode-Problem/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/kamranp03/LeetCode-Problem/tree/master/0389-find-the-difference) |
 | [0692-top-k-frequent-words](https://github.com/kamranp03/LeetCode-Problem/tree/master/0692-top-k-frequent-words) |
 | [1331-rank-transform-of-an-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/kamranp03/LeetCode-Problem/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/kamranp03/LeetCode-Problem/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/kamranp03/LeetCode-Problem/tree/master/0692-top-k-frequent-words) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kamranp03/LeetCode-Problem/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -358,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/kamranp03/LeetCode-Problem/tree/master/3312-sorted-gcd-pair-queries) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/kamranp03/LeetCode-Problem/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
