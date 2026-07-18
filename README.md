@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kamranp03/LeetCode-Problem/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/kamranp03/LeetCode-Problem/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/kamranp03/LeetCode-Problem/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/kamranp03/LeetCode-Problem/tree/master/0383-ransom-note) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kamranp03/LeetCode-Problem/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/kamranp03/LeetCode-Problem/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/kamranp03/LeetCode-Problem/tree/master/0014-longest-common-prefix) |
 | [0692-top-k-frequent-words](https://github.com/kamranp03/LeetCode-Problem/tree/master/0692-top-k-frequent-words) |
 ## Dynamic Programming
 |  |
