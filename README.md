@@ -388,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/kamranp03/LeetCode-Problem/tree/master/0389-find-the-difference) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/kamranp03/LeetCode-Problem/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
