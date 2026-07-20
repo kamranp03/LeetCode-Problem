@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/kamranp03/LeetCode-Problem/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kamranp03/LeetCode-Problem/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/kamranp03/LeetCode-Problem/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/kamranp03/LeetCode-Problem/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kamranp03/LeetCode-Problem/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/kamranp03/LeetCode-Problem/tree/master/2685-count-the-number-of-complete-components) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/kamranp03/LeetCode-Problem/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kamranp03/LeetCode-Problem/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/kamranp03/LeetCode-Problem/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/kamranp03/LeetCode-Problem/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kamranp03/LeetCode-Problem/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/kamranp03/LeetCode-Problem/tree/master/2685-count-the-number-of-complete-components) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/kamranp03/LeetCode-Problem/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kamranp03/LeetCode-Problem/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kamranp03/LeetCode-Problem/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/kamranp03/LeetCode-Problem/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kamranp03/LeetCode-Problem/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/kamranp03/LeetCode-Problem/tree/master/2685-count-the-number-of-complete-components) |
 ## Topological Sort
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kamranp03/LeetCode-Problem/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/kamranp03/LeetCode-Problem/tree/master/0785-is-graph-bipartite) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/kamranp03/LeetCode-Problem/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/kamranp03/LeetCode-Problem/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kamranp03/LeetCode-Problem/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/kamranp03/LeetCode-Problem/tree/master/2685-count-the-number-of-complete-components) |
