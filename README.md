@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/kamranp03/LeetCode-Problem/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0778-swim-in-rising-water) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kamranp03/LeetCode-Problem/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1260-shift-2d-grid](https://github.com/kamranp03/LeetCode-Problem/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/1480-running-sum-of-1d-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/kamranp03/LeetCode-Problem/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kamranp03/LeetCode-Problem/tree/master/0200-number-of-islands) |
 | [0778-swim-in-rising-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0778-swim-in-rising-water) |
+| [1260-shift-2d-grid](https://github.com/kamranp03/LeetCode-Problem/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/kamranp03/LeetCode-Problem/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/kamranp03/LeetCode-Problem/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/kamranp03/LeetCode-Problem/tree/master/0657-robot-return-to-origin) |
+| [1260-shift-2d-grid](https://github.com/kamranp03/LeetCode-Problem/tree/master/1260-shift-2d-grid) |
 | [2390-removing-stars-from-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/2390-removing-stars-from-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kamranp03/LeetCode-Problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
