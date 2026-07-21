@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/kamranp03/LeetCode-Problem/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2785-sort-vowels-in-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/2785-sort-vowels-in-a-string) |
 | [3340-check-balanced-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/3340-check-balanced-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/kamranp03/LeetCode-Problem/tree/master/3499-maximize-active-section-with-trade-i) |
 ## String Matching
 |  |
 | ------- |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/kamranp03/LeetCode-Problem/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/kamranp03/LeetCode-Problem/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Combinatorics
 |  |
 | ------- |
