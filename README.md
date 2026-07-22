@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/kamranp03/LeetCode-Problem/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/kamranp03/LeetCode-Problem/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kamranp03/LeetCode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/kamranp03/LeetCode-Problem/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kamranp03/LeetCode-Problem/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/kamranp03/LeetCode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/kamranp03/LeetCode-Problem/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/kamranp03/LeetCode-Problem/tree/master/0130-surrounded-regions) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kamranp03/LeetCode-Problem/tree/master/0048-rotate-image) |
 | [0172-factorial-trailing-zeroes](https://github.com/kamranp03/LeetCode-Problem/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/kamranp03/LeetCode-Problem/tree/master/0258-add-digits) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/kamranp03/LeetCode-Problem/tree/master/1588-sum-of-all-odd-length-subarrays) |
