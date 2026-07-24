@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/kamranp03/LeetCode-Problem/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/kamranp03/LeetCode-Problem/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/kamranp03/LeetCode-Problem/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/kamranp03/LeetCode-Problem/tree/master/0258-add-digits) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/kamranp03/LeetCode-Problem/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -415,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/kamranp03/LeetCode-Problem/tree/master/0175-combine-two-tables) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/kamranp03/LeetCode-Problem/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
