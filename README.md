@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/2785-sort-vowels-in-a-string) |
 | [3340-check-balanced-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/3340-check-balanced-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/kamranp03/LeetCode-Problem/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kamranp03/LeetCode-Problem/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String Matching
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kamranp03/LeetCode-Problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kamranp03/LeetCode-Problem/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2785-sort-vowels-in-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/2785-sort-vowels-in-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kamranp03/LeetCode-Problem/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kamranp03/LeetCode-Problem/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kamranp03/LeetCode-Problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -431,4 +433,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kamranp03/LeetCode-Problem/tree/master/0050-powx-n) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/kamranp03/LeetCode-Problem/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
