@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kamranp03/LeetCode-Problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/kamranp03/LeetCode-Problem/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kamranp03/LeetCode-Problem/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/kamranp03/LeetCode-Problem/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/kamranp03/LeetCode-Problem/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/kamranp03/LeetCode-Problem/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/kamranp03/LeetCode-Problem/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kamranp03/LeetCode-Problem/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/kamranp03/LeetCode-Problem/tree/master/0232-implement-queue-using-stacks) |
 ## Sliding Window
 |  |
 | ------- |
@@ -426,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kamranp03/LeetCode-Problem/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/kamranp03/LeetCode-Problem/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/kamranp03/LeetCode-Problem/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Queue
