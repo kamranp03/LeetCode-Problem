@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kamranp03/LeetCode-Problem/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/kamranp03/LeetCode-Problem/tree/master/0014-longest-common-prefix) |
 | [0079-word-search](https://github.com/kamranp03/LeetCode-Problem/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/0151-reverse-words-in-a-string) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kamranp03/LeetCode-Problem/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/kamranp03/LeetCode-Problem/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/kamranp03/LeetCode-Problem/tree/master/0086-partition-list) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kamranp03/LeetCode-Problem/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/kamranp03/LeetCode-Problem/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0063-unique-paths-ii) |
