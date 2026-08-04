@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kamranp03/LeetCode-Problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/kamranp03/LeetCode-Problem/tree/master/0165-compare-version-numbers) |
+| [0295-find-median-from-data-stream](https://github.com/kamranp03/LeetCode-Problem/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/kamranp03/LeetCode-Problem/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/0567-permutation-in-string) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/kamranp03/LeetCode-Problem/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kamranp03/LeetCode-Problem/tree/master/0217-contains-duplicate) |
+| [0295-find-median-from-data-stream](https://github.com/kamranp03/LeetCode-Problem/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/kamranp03/LeetCode-Problem/tree/master/0389-find-the-difference) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/kamranp03/LeetCode-Problem/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/kamranp03/LeetCode-Problem/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/kamranp03/LeetCode-Problem/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/kamranp03/LeetCode-Problem/tree/master/0743-network-delay-time) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/kamranp03/LeetCode-Problem/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kamranp03/LeetCode-Problem/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kamranp03/LeetCode-Problem/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/kamranp03/LeetCode-Problem/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/kamranp03/LeetCode-Problem/tree/master/0901-online-stock-span) |
 ## Sliding Window
 |  |
@@ -508,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/kamranp03/LeetCode-Problem/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/kamranp03/LeetCode-Problem/tree/master/0901-online-stock-span) |
 ## Minimax
 |  |
