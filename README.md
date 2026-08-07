@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kamranp03/LeetCode-Problem/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/kamranp03/LeetCode-Problem/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kamranp03/LeetCode-Problem/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/kamranp03/LeetCode-Problem/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/kamranp03/LeetCode-Problem/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kamranp03/LeetCode-Problem/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0778-swim-in-rising-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0778-swim-in-rising-water) |
 | [1260-shift-2d-grid](https://github.com/kamranp03/LeetCode-Problem/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/kamranp03/LeetCode-Problem/tree/master/1631-path-with-minimum-effort) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/kamranp03/LeetCode-Problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/kamranp03/LeetCode-Problem/tree/master/0162-find-peak-element) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kamranp03/LeetCode-Problem/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0778-swim-in-rising-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0778-swim-in-rising-water) |
