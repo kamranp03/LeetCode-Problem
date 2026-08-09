@@ -516,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kamranp03/LeetCode-Problem/tree/master/1406-stone-game-iii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/kamranp03/LeetCode-Problem/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2469-convert-the-temperature](https://github.com/kamranp03/LeetCode-Problem/tree/master/2469-convert-the-temperature) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kamranp03/LeetCode-Problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/kamranp03/LeetCode-Problem/tree/master/3099-harshad-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kamranp03/LeetCode-Problem/tree/master/3312-sorted-gcd-pair-queries) |
