@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/kamranp03/LeetCode-Problem/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/kamranp03/LeetCode-Problem/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/kamranp03/LeetCode-Problem/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/kamranp03/LeetCode-Problem/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kamranp03/LeetCode-Problem/tree/master/0217-contains-duplicate) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/kamranp03/LeetCode-Problem/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/kamranp03/LeetCode-Problem/tree/master/0062-unique-paths) |
 | [0172-factorial-trailing-zeroes](https://github.com/kamranp03/LeetCode-Problem/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/kamranp03/LeetCode-Problem/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/kamranp03/LeetCode-Problem/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/kamranp03/LeetCode-Problem/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kamranp03/LeetCode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kamranp03/LeetCode-Problem/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/kamranp03/LeetCode-Problem/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kamranp03/LeetCode-Problem/tree/master/3312-sorted-gcd-pair-queries) |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/kamranp03/LeetCode-Problem/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/kamranp03/LeetCode-Problem/tree/master/1291-sequential-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/kamranp03/LeetCode-Problem/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Combinatorics
@@ -639,4 +643,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/kamranp03/LeetCode-Problem/tree/master/1510-stone-game-iv) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kamranp03/LeetCode-Problem/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kamranp03/LeetCode-Problem/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kamranp03/LeetCode-Problem/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
