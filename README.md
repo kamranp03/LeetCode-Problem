@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kamranp03/LeetCode-Problem/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/kamranp03/LeetCode-Problem/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/kamranp03/LeetCode-Problem/tree/master/0316-remove-duplicate-letters) |
 | [0621-task-scheduler](https://github.com/kamranp03/LeetCode-Problem/tree/master/0621-task-scheduler) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/kamranp03/LeetCode-Problem/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/kamranp03/LeetCode-Problem/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/kamranp03/LeetCode-Problem/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kamranp03/LeetCode-Problem/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/kamranp03/LeetCode-Problem/tree/master/0073-set-matrix-zeroes) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kamranp03/LeetCode-Problem/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/kamranp03/LeetCode-Problem/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/kamranp03/LeetCode-Problem/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/kamranp03/LeetCode-Problem/tree/master/0118-pascals-triangle) |
