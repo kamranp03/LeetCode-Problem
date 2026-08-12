@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1328-break-a-palindrome](https://github.com/kamranp03/LeetCode-Problem/tree/master/1328-break-a-palindrome) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kamranp03/LeetCode-Problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/kamranp03/LeetCode-Problem/tree/master/1962-remove-stones-to-minimize-the-total) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/kamranp03/LeetCode-Problem/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/kamranp03/LeetCode-Problem/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kamranp03/LeetCode-Problem/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/kamranp03/LeetCode-Problem/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/kamranp03/LeetCode-Problem/tree/master/2187-minimum-time-to-complete-trips) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/kamranp03/LeetCode-Problem/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/kamranp03/LeetCode-Problem/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kamranp03/LeetCode-Problem/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/kamranp03/LeetCode-Problem/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/kamranp03/LeetCode-Problem/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/kamranp03/LeetCode-Problem/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/kamranp03/LeetCode-Problem/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kamranp03/LeetCode-Problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kamranp03/LeetCode-Problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/kamranp03/LeetCode-Problem/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/kamranp03/LeetCode-Problem/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/kamranp03/LeetCode-Problem/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kamranp03/LeetCode-Problem/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
