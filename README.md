@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2785-sort-vowels-in-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/2785-sort-vowels-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kamranp03/LeetCode-Problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kamranp03/LeetCode-Problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kamranp03/LeetCode-Problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3340-check-balanced-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/3340-check-balanced-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kamranp03/LeetCode-Problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kamranp03/LeetCode-Problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kamranp03/LeetCode-Problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kamranp03/LeetCode-Problem/tree/master/3312-sorted-gcd-pair-queries) |
 | [3731-find-missing-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/0567-permutation-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kamranp03/LeetCode-Problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kamranp03/LeetCode-Problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/kamranp03/LeetCode-Problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Simulation
 |  |
 | ------- |
