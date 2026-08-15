@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kamranp03/LeetCode-Problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/kamranp03/LeetCode-Problem/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kamranp03/LeetCode-Problem/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2126-destroying-asteroids](https://github.com/kamranp03/LeetCode-Problem/tree/master/2126-destroying-asteroids) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/kamranp03/LeetCode-Problem/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/kamranp03/LeetCode-Problem/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2405-optimal-partition-of-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/2405-optimal-partition-of-string) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/kamranp03/LeetCode-Problem/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kamranp03/LeetCode-Problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2126-destroying-asteroids](https://github.com/kamranp03/LeetCode-Problem/tree/master/2126-destroying-asteroids) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/kamranp03/LeetCode-Problem/tree/master/2187-minimum-time-to-complete-trips) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kamranp03/LeetCode-Problem/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/kamranp03/LeetCode-Problem/tree/master/1552-magnetic-force-between-two-balls) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kamranp03/LeetCode-Problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kamranp03/LeetCode-Problem/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2126-destroying-asteroids](https://github.com/kamranp03/LeetCode-Problem/tree/master/2126-destroying-asteroids) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/kamranp03/LeetCode-Problem/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kamranp03/LeetCode-Problem/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kamranp03/LeetCode-Problem/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
