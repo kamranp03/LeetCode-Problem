@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/kamranp03/LeetCode-Problem/tree/master/1631-path-with-minimum-effort) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kamranp03/LeetCode-Problem/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/kamranp03/LeetCode-Problem/tree/master/1672-richest-customer-wealth) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/kamranp03/LeetCode-Problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kamranp03/LeetCode-Problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/kamranp03/LeetCode-Problem/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kamranp03/LeetCode-Problem/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/kamranp03/LeetCode-Problem/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/kamranp03/LeetCode-Problem/tree/master/0657-robot-return-to-origin) |
 | [1260-shift-2d-grid](https://github.com/kamranp03/LeetCode-Problem/tree/master/1260-shift-2d-grid) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/kamranp03/LeetCode-Problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2390-removing-stars-from-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/kamranp03/LeetCode-Problem/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/kamranp03/LeetCode-Problem/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/kamranp03/LeetCode-Problem/tree/master/1563-stone-game-v) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/kamranp03/LeetCode-Problem/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/kamranp03/LeetCode-Problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kamranp03/LeetCode-Problem/tree/master/2029-stone-game-ix) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kamranp03/LeetCode-Problem/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -627,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/kamranp03/LeetCode-Problem/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/kamranp03/LeetCode-Problem/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/0387-first-unique-character-in-a-string) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/kamranp03/LeetCode-Problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -659,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/kamranp03/LeetCode-Problem/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/kamranp03/LeetCode-Problem/tree/master/0486-predict-the-winner) |
 | [0779-k-th-symbol-in-grammar](https://github.com/kamranp03/LeetCode-Problem/tree/master/0779-k-th-symbol-in-grammar) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/kamranp03/LeetCode-Problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Counting Sort
 |  |
 | ------- |
