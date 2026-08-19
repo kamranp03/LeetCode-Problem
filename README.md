@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/kamranp03/LeetCode-Problem/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/kamranp03/LeetCode-Problem/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/kamranp03/LeetCode-Problem/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/kamranp03/LeetCode-Problem/tree/master/1768-merge-strings-alternately) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kamranp03/LeetCode-Problem/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/kamranp03/LeetCode-Problem/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/kamranp03/LeetCode-Problem/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/kamranp03/LeetCode-Problem/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/kamranp03/LeetCode-Problem/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/kamranp03/LeetCode-Problem/tree/master/0905-sort-array-by-parity) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kamranp03/LeetCode-Problem/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kamranp03/LeetCode-Problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/kamranp03/LeetCode-Problem/tree/master/1046-last-stone-weight) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/kamranp03/LeetCode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0692-top-k-frequent-words](https://github.com/kamranp03/LeetCode-Problem/tree/master/0692-top-k-frequent-words) |
 | [0881-boats-to-save-people](https://github.com/kamranp03/LeetCode-Problem/tree/master/0881-boats-to-save-people) |
+| [0905-sort-array-by-parity](https://github.com/kamranp03/LeetCode-Problem/tree/master/0905-sort-array-by-parity) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kamranp03/LeetCode-Problem/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1331-rank-transform-of-an-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kamranp03/LeetCode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
