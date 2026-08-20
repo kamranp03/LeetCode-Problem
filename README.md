@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/kamranp03/LeetCode-Problem/tree/master/2073-time-needed-to-buy-tickets) |
 | [2126-destroying-asteroids](https://github.com/kamranp03/LeetCode-Problem/tree/master/2126-destroying-asteroids) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/kamranp03/LeetCode-Problem/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2187-minimum-time-to-complete-trips](https://github.com/kamranp03/LeetCode-Problem/tree/master/2187-minimum-time-to-complete-trips) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kamranp03/LeetCode-Problem/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/kamranp03/LeetCode-Problem/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kamranp03/LeetCode-Problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kamranp03/LeetCode-Problem/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2126-destroying-asteroids](https://github.com/kamranp03/LeetCode-Problem/tree/master/2126-destroying-asteroids) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/kamranp03/LeetCode-Problem/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/kamranp03/LeetCode-Problem/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kamranp03/LeetCode-Problem/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kamranp03/LeetCode-Problem/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
