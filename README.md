@@ -624,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/kamranp03/LeetCode-Problem/tree/master/0204-count-primes) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kamranp03/LeetCode-Problem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/kamranp03/LeetCode-Problem/tree/master/0258-add-digits) |
+| [0319-bulb-switcher](https://github.com/kamranp03/LeetCode-Problem/tree/master/0319-bulb-switcher) |
 | [0486-predict-the-winner](https://github.com/kamranp03/LeetCode-Problem/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kamranp03/LeetCode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/kamranp03/LeetCode-Problem/tree/master/0779-k-th-symbol-in-grammar) |
@@ -813,4 +814,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/kamranp03/LeetCode-Problem/tree/master/1051-height-checker) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/kamranp03/LeetCode-Problem/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
