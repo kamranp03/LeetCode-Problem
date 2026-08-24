@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kamranp03/LeetCode-Problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kamranp03/LeetCode-Problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/kamranp03/LeetCode-Problem/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1872-stone-game-viii](https://github.com/kamranp03/LeetCode-Problem/tree/master/1872-stone-game-viii) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kamranp03/LeetCode-Problem/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/kamranp03/LeetCode-Problem/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kamranp03/LeetCode-Problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kamranp03/LeetCode-Problem/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kamranp03/LeetCode-Problem/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kamranp03/LeetCode-Problem/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/kamranp03/LeetCode-Problem/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kamranp03/LeetCode-Problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Monotonic Stack
 |  |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/kamranp03/LeetCode-Problem/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1872-stone-game-viii](https://github.com/kamranp03/LeetCode-Problem/tree/master/1872-stone-game-viii) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kamranp03/LeetCode-Problem/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kamranp03/LeetCode-Problem/tree/master/3312-sorted-gcd-pair-queries) |
 ## Shortest Path
@@ -641,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/kamranp03/LeetCode-Problem/tree/master/1563-stone-game-v) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/kamranp03/LeetCode-Problem/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kamranp03/LeetCode-Problem/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1872-stone-game-viii](https://github.com/kamranp03/LeetCode-Problem/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/kamranp03/LeetCode-Problem/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kamranp03/LeetCode-Problem/tree/master/2029-stone-game-ix) |
@@ -740,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/kamranp03/LeetCode-Problem/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kamranp03/LeetCode-Problem/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kamranp03/LeetCode-Problem/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/kamranp03/LeetCode-Problem/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/kamranp03/LeetCode-Problem/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kamranp03/LeetCode-Problem/tree/master/2029-stone-game-ix) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kamranp03/LeetCode-Problem/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -755,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kamranp03/LeetCode-Problem/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kamranp03/LeetCode-Problem/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/kamranp03/LeetCode-Problem/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/kamranp03/LeetCode-Problem/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -762,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/kamranp03/LeetCode-Problem/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kamranp03/LeetCode-Problem/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/kamranp03/LeetCode-Problem/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/kamranp03/LeetCode-Problem/tree/master/2029-stone-game-ix) |
 ## Z Algorithm
 |  |
