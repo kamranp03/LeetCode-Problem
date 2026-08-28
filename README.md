@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/kamranp03/LeetCode-Problem/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kamranp03/LeetCode-Problem/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kamranp03/LeetCode-Problem/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/kamranp03/LeetCode-Problem/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## String Matching
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2462-total-cost-to-hire-k-workers](https://github.com/kamranp03/LeetCode-Problem/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/kamranp03/LeetCode-Problem/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kamranp03/LeetCode-Problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/kamranp03/LeetCode-Problem/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kamranp03/LeetCode-Problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -708,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/kamranp03/LeetCode-Problem/tree/master/1291-sequential-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/kamranp03/LeetCode-Problem/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/kamranp03/LeetCode-Problem/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/kamranp03/LeetCode-Problem/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Combinatorics
 |  |
 | ------- |
