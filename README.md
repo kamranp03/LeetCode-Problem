@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-remove-stones-to-minimize-the-total](https://github.com/kamranp03/LeetCode-Problem/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2029-stone-game-ix](https://github.com/kamranp03/LeetCode-Problem/tree/master/2029-stone-game-ix) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kamranp03/LeetCode-Problem/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/kamranp03/LeetCode-Problem/tree/master/2126-destroying-asteroids) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/kamranp03/LeetCode-Problem/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/kamranp03/LeetCode-Problem/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kamranp03/LeetCode-Problem/tree/master/2029-stone-game-ix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kamranp03/LeetCode-Problem/tree/master/2073-time-needed-to-buy-tickets) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/kamranp03/LeetCode-Problem/tree/master/2126-destroying-asteroids) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/kamranp03/LeetCode-Problem/tree/master/2164-sort-even-and-odd-indices-independently) |
