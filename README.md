@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/kamranp03/LeetCode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/kamranp03/LeetCode-Problem/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/kamranp03/LeetCode-Problem/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kamranp03/LeetCode-Problem/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kamranp03/LeetCode-Problem/tree/master/0084-largest-rectangle-in-histogram) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kamranp03/LeetCode-Problem/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kamranp03/LeetCode-Problem/tree/master/0079-word-search) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Depth-First Search
@@ -731,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kamranp03/LeetCode-Problem/tree/master/0078-subsets) |
 | [0389-find-the-difference](https://github.com/kamranp03/LeetCode-Problem/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/kamranp03/LeetCode-Problem/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/kamranp03/LeetCode-Problem/tree/master/0779-k-th-symbol-in-grammar) |
