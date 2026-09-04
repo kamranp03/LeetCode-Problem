@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/kamranp03/LeetCode-Problem/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/kamranp03/LeetCode-Problem/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kamranp03/LeetCode-Problem/tree/master/0241-different-ways-to-add-parentheses) |
+| [0257-binary-tree-paths](https://github.com/kamranp03/LeetCode-Problem/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/kamranp03/LeetCode-Problem/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/kamranp03/LeetCode-Problem/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/0387-first-unique-character-in-a-string) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kamranp03/LeetCode-Problem/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/kamranp03/LeetCode-Problem/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0090-subsets-ii) |
+| [0257-binary-tree-paths](https://github.com/kamranp03/LeetCode-Problem/tree/master/0257-binary-tree-paths) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Depth-First Search
 |  |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kamranp03/LeetCode-Problem/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0210-course-schedule-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/kamranp03/LeetCode-Problem/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/kamranp03/LeetCode-Problem/tree/master/0386-lexicographical-numbers) |
 | [0606-construct-string-from-binary-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0606-construct-string-from-binary-tree) |
 | [0743-network-delay-time](https://github.com/kamranp03/LeetCode-Problem/tree/master/0743-network-delay-time) |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kamranp03/LeetCode-Problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/kamranp03/LeetCode-Problem/tree/master/0257-binary-tree-paths) |
 | [0606-construct-string-from-binary-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0606-construct-string-from-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kamranp03/LeetCode-Problem/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
@@ -601,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kamranp03/LeetCode-Problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/kamranp03/LeetCode-Problem/tree/master/0257-binary-tree-paths) |
 | [0606-construct-string-from-binary-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0606-construct-string-from-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kamranp03/LeetCode-Problem/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
