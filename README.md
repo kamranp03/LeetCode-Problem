@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kamranp03/LeetCode-Problem/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/kamranp03/LeetCode-Problem/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/kamranp03/LeetCode-Problem/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2305-fair-distribution-of-cookies](https://github.com/kamranp03/LeetCode-Problem/tree/master/2305-fair-distribution-of-cookies) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kamranp03/LeetCode-Problem/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/kamranp03/LeetCode-Problem/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/kamranp03/LeetCode-Problem/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/kamranp03/LeetCode-Problem/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/kamranp03/LeetCode-Problem/tree/master/0257-binary-tree-paths) |
+| [2305-fair-distribution-of-cookies](https://github.com/kamranp03/LeetCode-Problem/tree/master/2305-fair-distribution-of-cookies) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Depth-First Search
 |  |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/kamranp03/LeetCode-Problem/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kamranp03/LeetCode-Problem/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/kamranp03/LeetCode-Problem/tree/master/1872-stone-game-viii) |
+| [2305-fair-distribution-of-cookies](https://github.com/kamranp03/LeetCode-Problem/tree/master/2305-fair-distribution-of-cookies) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kamranp03/LeetCode-Problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Monotonic Stack
 |  |
@@ -755,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/kamranp03/LeetCode-Problem/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/kamranp03/LeetCode-Problem/tree/master/0779-k-th-symbol-in-grammar) |
 | [1386-cinema-seat-allocation](https://github.com/kamranp03/LeetCode-Problem/tree/master/1386-cinema-seat-allocation) |
+| [2305-fair-distribution-of-cookies](https://github.com/kamranp03/LeetCode-Problem/tree/master/2305-fair-distribution-of-cookies) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kamranp03/LeetCode-Problem/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/kamranp03/LeetCode-Problem/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kamranp03/LeetCode-Problem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -882,4 +886,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/kamranp03/LeetCode-Problem/tree/master/0319-bulb-switcher) |
+## Bitmask
+|  |
+| ------- |
+| [2305-fair-distribution-of-cookies](https://github.com/kamranp03/LeetCode-Problem/tree/master/2305-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
