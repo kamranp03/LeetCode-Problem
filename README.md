@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kamranp03/LeetCode-Problem/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/kamranp03/LeetCode-Problem/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/kamranp03/LeetCode-Problem/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/kamranp03/LeetCode-Problem/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/kamranp03/LeetCode-Problem/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/kamranp03/LeetCode-Problem/tree/master/0205-isomorphic-strings) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kamranp03/LeetCode-Problem/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/kamranp03/LeetCode-Problem/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0063-unique-paths-ii) |
+| [0115-distinct-subsequences](https://github.com/kamranp03/LeetCode-Problem/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/kamranp03/LeetCode-Problem/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/kamranp03/LeetCode-Problem/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0213-house-robber-ii) |
