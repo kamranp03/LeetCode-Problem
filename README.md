@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2530-maximal-score-after-applying-k-operations](https://github.com/kamranp03/LeetCode-Problem/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kamranp03/LeetCode-Problem/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/kamranp03/LeetCode-Problem/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2706-buy-two-chocolates](https://github.com/kamranp03/LeetCode-Problem/tree/master/2706-buy-two-chocolates) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/kamranp03/LeetCode-Problem/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/kamranp03/LeetCode-Problem/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/kamranp03/LeetCode-Problem/tree/master/0257-binary-tree-paths) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/kamranp03/LeetCode-Problem/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/kamranp03/LeetCode-Problem/tree/master/2305-fair-distribution-of-cookies) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/kamranp03/LeetCode-Problem/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Depth-First Search
 |  |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kamranp03/LeetCode-Problem/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kamranp03/LeetCode-Problem/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/kamranp03/LeetCode-Problem/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2706-buy-two-chocolates](https://github.com/kamranp03/LeetCode-Problem/tree/master/2706-buy-two-chocolates) |
 | [2785-sort-vowels-in-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/2785-sort-vowels-in-a-string) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -437,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2405-optimal-partition-of-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/2405-optimal-partition-of-string) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kamranp03/LeetCode-Problem/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/kamranp03/LeetCode-Problem/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/kamranp03/LeetCode-Problem/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kamranp03/LeetCode-Problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kamranp03/LeetCode-Problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -539,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/kamranp03/LeetCode-Problem/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/kamranp03/LeetCode-Problem/tree/master/1872-stone-game-viii) |
 | [2305-fair-distribution-of-cookies](https://github.com/kamranp03/LeetCode-Problem/tree/master/2305-fair-distribution-of-cookies) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/kamranp03/LeetCode-Problem/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kamranp03/LeetCode-Problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Monotonic Stack
 |  |
@@ -694,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/kamranp03/LeetCode-Problem/tree/master/2029-stone-game-ix) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kamranp03/LeetCode-Problem/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2469-convert-the-temperature](https://github.com/kamranp03/LeetCode-Problem/tree/master/2469-convert-the-temperature) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/kamranp03/LeetCode-Problem/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/kamranp03/LeetCode-Problem/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/kamranp03/LeetCode-Problem/tree/master/3099-harshad-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kamranp03/LeetCode-Problem/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -752,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kamranp03/LeetCode-Problem/tree/master/0062-unique-paths) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/kamranp03/LeetCode-Problem/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/kamranp03/LeetCode-Problem/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kamranp03/LeetCode-Problem/tree/master/3312-sorted-gcd-pair-queries) |
 ## Bit Manipulation
