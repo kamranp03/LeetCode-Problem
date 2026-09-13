@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/kamranp03/LeetCode-Problem/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/kamranp03/LeetCode-Problem/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/kamranp03/LeetCode-Problem/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/kamranp03/LeetCode-Problem/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/kamranp03/LeetCode-Problem/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/kamranp03/LeetCode-Problem/tree/master/0881-boats-to-save-people) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kamranp03/LeetCode-Problem/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0778-swim-in-rising-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/kamranp03/LeetCode-Problem/tree/master/0835-image-overlap) |
 | [1219-path-with-maximum-gold](https://github.com/kamranp03/LeetCode-Problem/tree/master/1219-path-with-maximum-gold) |
 | [1260-shift-2d-grid](https://github.com/kamranp03/LeetCode-Problem/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/kamranp03/LeetCode-Problem/tree/master/1631-path-with-minimum-effort) |
