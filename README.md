@@ -956,4 +956,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/kamranp03/LeetCode-Problem/tree/master/0836-rectangle-overlap) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/kamranp03/LeetCode-Problem/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
