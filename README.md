@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0606-construct-string-from-binary-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0606-construct-string-from-binary-tree) |
 | [0743-network-delay-time](https://github.com/kamranp03/LeetCode-Problem/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0778-swim-in-rising-water) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/kamranp03/LeetCode-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/kamranp03/LeetCode-Problem/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kamranp03/LeetCode-Problem/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kamranp03/LeetCode-Problem/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/kamranp03/LeetCode-Problem/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0778-swim-in-rising-water) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/kamranp03/LeetCode-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/kamranp03/LeetCode-Problem/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kamranp03/LeetCode-Problem/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kamranp03/LeetCode-Problem/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/kamranp03/LeetCode-Problem/tree/master/0257-binary-tree-paths) |
 | [0606-construct-string-from-binary-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0606-construct-string-from-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kamranp03/LeetCode-Problem/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/kamranp03/LeetCode-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kamranp03/LeetCode-Problem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -643,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/kamranp03/LeetCode-Problem/tree/master/0257-binary-tree-paths) |
 | [0606-construct-string-from-binary-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0606-construct-string-from-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kamranp03/LeetCode-Problem/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/kamranp03/LeetCode-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kamranp03/LeetCode-Problem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -663,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/kamranp03/LeetCode-Problem/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/kamranp03/LeetCode-Problem/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0778-swim-in-rising-water) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/kamranp03/LeetCode-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0875-koko-eating-bananas](https://github.com/kamranp03/LeetCode-Problem/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kamranp03/LeetCode-Problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kamranp03/LeetCode-Problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
