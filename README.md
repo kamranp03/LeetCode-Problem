@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/kamranp03/LeetCode-Problem/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/0796-rotate-string) |
 ## Two Pointers
 |  |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/kamranp03/LeetCode-Problem/tree/master/0257-binary-tree-paths) |
 | [0386-lexicographical-numbers](https://github.com/kamranp03/LeetCode-Problem/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0606-construct-string-from-binary-tree) |
 | [0743-network-delay-time](https://github.com/kamranp03/LeetCode-Problem/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0778-swim-in-rising-water) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/kamranp03/LeetCode-Problem/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0606-construct-string-from-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kamranp03/LeetCode-Problem/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/kamranp03/LeetCode-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -654,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/kamranp03/LeetCode-Problem/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0606-construct-string-from-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kamranp03/LeetCode-Problem/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/kamranp03/LeetCode-Problem/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -988,4 +992,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0543-diameter-of-binary-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
