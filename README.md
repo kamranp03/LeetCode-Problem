@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kamranp03/LeetCode-Problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kamranp03/LeetCode-Problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/kamranp03/LeetCode-Problem/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kamranp03/LeetCode-Problem/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0210-course-schedule-ii) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/kamranp03/LeetCode-Problem/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kamranp03/LeetCode-Problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0130-surrounded-regions](https://github.com/kamranp03/LeetCode-Problem/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/kamranp03/LeetCode-Problem/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0210-course-schedule-ii) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0086-partition-list](https://github.com/kamranp03/LeetCode-Problem/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kamranp03/LeetCode-Problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kamranp03/LeetCode-Problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/kamranp03/LeetCode-Problem/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kamranp03/LeetCode-Problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/0203-remove-linked-list-elements) |
@@ -644,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kamranp03/LeetCode-Problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kamranp03/LeetCode-Problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kamranp03/LeetCode-Problem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/kamranp03/LeetCode-Problem/tree/master/0257-binary-tree-paths) |
@@ -664,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kamranp03/LeetCode-Problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/kamranp03/LeetCode-Problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kamranp03/LeetCode-Problem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/kamranp03/LeetCode-Problem/tree/master/0257-binary-tree-paths) |
