@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kamranp03/LeetCode-Problem/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/kamranp03/LeetCode-Problem/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/kamranp03/LeetCode-Problem/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/kamranp03/LeetCode-Problem/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/kamranp03/LeetCode-Problem/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/kamranp03/LeetCode-Problem/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/0151-reverse-words-in-a-string) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/kamranp03/LeetCode-Problem/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/kamranp03/LeetCode-Problem/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/kamranp03/LeetCode-Problem/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kamranp03/LeetCode-Problem/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/kamranp03/LeetCode-Problem/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kamranp03/LeetCode-Problem/tree/master/0056-merge-intervals) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/kamranp03/LeetCode-Problem/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/kamranp03/LeetCode-Problem/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/kamranp03/LeetCode-Problem/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/kamranp03/LeetCode-Problem/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/kamranp03/LeetCode-Problem/tree/master/0179-largest-number) |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/kamranp03/LeetCode-Problem/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/kamranp03/LeetCode-Problem/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/kamranp03/LeetCode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/kamranp03/LeetCode-Problem/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kamranp03/LeetCode-Problem/tree/master/0160-intersection-of-two-linked-lists) |
