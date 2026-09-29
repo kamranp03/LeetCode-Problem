@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/kamranp03/LeetCode-Problem/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/kamranp03/LeetCode-Problem/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/kamranp03/LeetCode-Problem/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kamranp03/LeetCode-Problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/kamranp03/LeetCode-Problem/tree/master/0165-compare-version-numbers) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kamranp03/LeetCode-Problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kamranp03/LeetCode-Problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/kamranp03/LeetCode-Problem/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/kamranp03/LeetCode-Problem/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/kamranp03/LeetCode-Problem/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kamranp03/LeetCode-Problem/tree/master/0232-implement-queue-using-stacks) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/kamranp03/LeetCode-Problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kamranp03/LeetCode-Problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0143-reorder-list](https://github.com/kamranp03/LeetCode-Problem/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/kamranp03/LeetCode-Problem/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kamranp03/LeetCode-Problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/0203-remove-linked-list-elements) |
@@ -922,6 +925,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/kamranp03/LeetCode-Problem/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/kamranp03/LeetCode-Problem/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/kamranp03/LeetCode-Problem/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/0203-remove-linked-list-elements) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kamranp03/LeetCode-Problem/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/kamranp03/LeetCode-Problem/tree/master/0486-predict-the-winner) |
