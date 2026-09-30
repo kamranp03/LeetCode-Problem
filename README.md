@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/kamranp03/LeetCode-Problem/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/kamranp03/LeetCode-Problem/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/kamranp03/LeetCode-Problem/tree/master/0402-remove-k-digits) |
 | [0459-repeated-substring-pattern](https://github.com/kamranp03/LeetCode-Problem/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0606-construct-string-from-binary-tree) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/kamranp03/LeetCode-Problem/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/kamranp03/LeetCode-Problem/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/kamranp03/LeetCode-Problem/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/kamranp03/LeetCode-Problem/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/kamranp03/LeetCode-Problem/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/kamranp03/LeetCode-Problem/tree/master/0624-maximum-distance-in-arrays) |
 | [0881-boats-to-save-people](https://github.com/kamranp03/LeetCode-Problem/tree/master/0881-boats-to-save-people) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/kamranp03/LeetCode-Problem/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kamranp03/LeetCode-Problem/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/kamranp03/LeetCode-Problem/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/kamranp03/LeetCode-Problem/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/kamranp03/LeetCode-Problem/tree/master/0735-asteroid-collision) |
@@ -618,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/kamranp03/LeetCode-Problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/kamranp03/LeetCode-Problem/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/kamranp03/LeetCode-Problem/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/kamranp03/LeetCode-Problem/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/kamranp03/LeetCode-Problem/tree/master/0901-online-stock-span) |
