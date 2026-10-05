@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/kamranp03/LeetCode-Problem/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/kamranp03/LeetCode-Problem/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0922-sort-array-by-parity-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/kamranp03/LeetCode-Problem/tree/master/0973-k-closest-points-to-origin) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kamranp03/LeetCode-Problem/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kamranp03/LeetCode-Problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/kamranp03/LeetCode-Problem/tree/master/1046-last-stone-weight) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/kamranp03/LeetCode-Problem/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/kamranp03/LeetCode-Problem/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0922-sort-array-by-parity-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/kamranp03/LeetCode-Problem/tree/master/0973-k-closest-points-to-origin) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kamranp03/LeetCode-Problem/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/kamranp03/LeetCode-Problem/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/1331-rank-transform-of-an-array) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/kamranp03/LeetCode-Problem/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/kamranp03/LeetCode-Problem/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kamranp03/LeetCode-Problem/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/kamranp03/LeetCode-Problem/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/kamranp03/LeetCode-Problem/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/kamranp03/LeetCode-Problem/tree/master/1631-path-with-minimum-effort) |
@@ -597,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/kamranp03/LeetCode-Problem/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -841,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/kamranp03/LeetCode-Problem/tree/master/0779-k-th-symbol-in-grammar) |
 | [0836-rectangle-overlap](https://github.com/kamranp03/LeetCode-Problem/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/kamranp03/LeetCode-Problem/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/kamranp03/LeetCode-Problem/tree/master/0973-k-closest-points-to-origin) |
 | [0991-broken-calculator](https://github.com/kamranp03/LeetCode-Problem/tree/master/0991-broken-calculator) |
 | [1140-stone-game-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kamranp03/LeetCode-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -1107,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/kamranp03/LeetCode-Problem/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/kamranp03/LeetCode-Problem/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/kamranp03/LeetCode-Problem/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Range Minimum/Maximum Query
 |  |
@@ -1121,4 +1128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0572-subtree-of-another-tree) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/kamranp03/LeetCode-Problem/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
