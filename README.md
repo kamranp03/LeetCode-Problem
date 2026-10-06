@@ -573,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kamranp03/LeetCode-Problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/kamranp03/LeetCode-Problem/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/kamranp03/LeetCode-Problem/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
@@ -582,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kamranp03/LeetCode-Problem/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/kamranp03/LeetCode-Problem/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/kamranp03/LeetCode-Problem/tree/master/0295-find-median-from-data-stream) |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kamranp03/LeetCode-Problem/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/kamranp03/LeetCode-Problem/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/kamranp03/LeetCode-Problem/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/kamranp03/LeetCode-Problem/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0092-reverse-linked-list-ii) |
@@ -1141,4 +1144,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/kamranp03/LeetCode-Problem/tree/master/0973-k-closest-points-to-origin) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kamranp03/LeetCode-Problem/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/kamranp03/LeetCode-Problem/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
