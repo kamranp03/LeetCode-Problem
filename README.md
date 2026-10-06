@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kamranp03/LeetCode-Problem/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/kamranp03/LeetCode-Problem/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/kamranp03/LeetCode-Problem/tree/master/0179-largest-number) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/kamranp03/LeetCode-Problem/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/kamranp03/LeetCode-Problem/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kamranp03/LeetCode-Problem/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/kamranp03/LeetCode-Problem/tree/master/0054-spiral-matrix) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kamranp03/LeetCode-Problem/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/kamranp03/LeetCode-Problem/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kamranp03/LeetCode-Problem/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/kamranp03/LeetCode-Problem/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0063-unique-paths-ii) |
