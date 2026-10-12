@@ -1,0 +1,86 @@
+/*
+// Definition for a Node.
+class Node {
+public:
+    int val;
+    vector<Node*> neighbors;
+    Node() {
+        val = 0;
+        neighbors = vector<Node*>();
+    }
+    Node(int _val) {
+        val = _val;
+        neighbors = vector<Node*>();
+    }
+    Node(int _val, vector<Node*> _neighbors) {
+        val = _val;
+        neighbors = _neighbors;
+    }
+};
+*/
+
+class Solution {
+public:
+    unordered_map<Node*, Node*> mp;
+    void dfs(Node* node, Node* clone_node) {
+        for (Node* n : node->neighbors) {
+            // means clone neighbors not created
+            if (mp.find(n) == mp.end()) {
+                Node* clone = new Node(n->val);
+                mp[n] = clone;
+                clone_node->neighbors.push_back(clone);
+
+                dfs(n, clone);
+            } else { // clone neighbors created and in th mp[n]
+                clone_node->neighbors.push_back(mp[n]);
+            }
+        }
+    }
+
+    void bfs(queue<Node*>& q)
+    {
+        while(!q.empty())
+        {
+            Node* node= q.front();
+            Node* clone_node= mp[node];
+            q.pop();
+
+            for (Node* n : node->neighbors) {
+            // means clone neighbors not created
+            if (mp.find(n) == mp.end()) {
+                Node* clone = new Node(n->val);
+                mp[n] = clone;
+                clone_node->neighbors.push_back(clone);
+
+                q.push(n);
+
+            } else { // clone neighbors created and in th mp[n]
+                clone_node->neighbors.push_back(mp[n]);
+            }
+        }
+
+        }
+    }
+    Node* cloneGraph(Node* node) {
+        if (!node)
+            return NULL;
+
+        // clone the given node
+        Node* clone_node = new Node(node->val);
+
+        mp.clear();
+
+        // now clone its all neighbours recursively
+        //  but if node reappears then we need track it was alrady crated
+        //  so we take map<node,node>
+
+        mp[node] = clone_node;
+        dfs(node, clone_node);
+
+        // queue<Node*> q;
+        // q.push(node);
+        // bfs(q);
+
+        return clone_node;
+    }
+};
