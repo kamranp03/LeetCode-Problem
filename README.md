@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/kamranp03/LeetCode-Problem/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/kamranp03/LeetCode-Problem/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/kamranp03/LeetCode-Problem/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/kamranp03/LeetCode-Problem/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/kamranp03/LeetCode-Problem/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/kamranp03/LeetCode-Problem/tree/master/0179-largest-number) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kamranp03/LeetCode-Problem/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kamranp03/LeetCode-Problem/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0127-word-ladder](https://github.com/kamranp03/LeetCode-Problem/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/kamranp03/LeetCode-Problem/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/kamranp03/LeetCode-Problem/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/kamranp03/LeetCode-Problem/tree/master/0199-binary-tree-right-side-view) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/kamranp03/LeetCode-Problem/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/kamranp03/LeetCode-Problem/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/kamranp03/LeetCode-Problem/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/kamranp03/LeetCode-Problem/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/kamranp03/LeetCode-Problem/tree/master/0133-clone-graph) |
 | [0146-lru-cache](https://github.com/kamranp03/LeetCode-Problem/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kamranp03/LeetCode-Problem/tree/master/0160-intersection-of-two-linked-lists) |
@@ -1195,4 +1198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kamranp03/LeetCode-Problem/tree/master/0023-merge-k-sorted-lists) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/kamranp03/LeetCode-Problem/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
