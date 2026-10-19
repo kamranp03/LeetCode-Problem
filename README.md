@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/kamranp03/LeetCode-Problem/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/kamranp03/LeetCode-Problem/tree/master/0274-h-index) |
+| [0322-coin-change](https://github.com/kamranp03/LeetCode-Problem/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kamranp03/LeetCode-Problem/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/kamranp03/LeetCode-Problem/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0210-course-schedule-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/kamranp03/LeetCode-Problem/tree/master/0301-remove-invalid-parentheses) |
+| [0322-coin-change](https://github.com/kamranp03/LeetCode-Problem/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/kamranp03/LeetCode-Problem/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/kamranp03/LeetCode-Problem/tree/master/0684-redundant-connection) |
@@ -690,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/kamranp03/LeetCode-Problem/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kamranp03/LeetCode-Problem/tree/master/0241-different-ways-to-add-parentheses) |
+| [0322-coin-change](https://github.com/kamranp03/LeetCode-Problem/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/kamranp03/LeetCode-Problem/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/kamranp03/LeetCode-Problem/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/kamranp03/LeetCode-Problem/tree/master/0486-predict-the-winner) |
@@ -1221,4 +1224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kamranp03/LeetCode-Problem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/kamranp03/LeetCode-Problem/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/kamranp03/LeetCode-Problem/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
