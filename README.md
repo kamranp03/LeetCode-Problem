@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/kamranp03/LeetCode-Problem/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/kamranp03/LeetCode-Problem/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/kamranp03/LeetCode-Problem/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/kamranp03/LeetCode-Problem/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/kamranp03/LeetCode-Problem/tree/master/0165-compare-version-numbers) |
 | [0179-largest-number](https://github.com/kamranp03/LeetCode-Problem/tree/master/0179-largest-number) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/kamranp03/LeetCode-Problem/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/kamranp03/LeetCode-Problem/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/kamranp03/LeetCode-Problem/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kamranp03/LeetCode-Problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kamranp03/LeetCode-Problem/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/kamranp03/LeetCode-Problem/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/kamranp03/LeetCode-Problem/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/kamranp03/LeetCode-Problem/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/kamranp03/LeetCode-Problem/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kamranp03/LeetCode-Problem/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/kamranp03/LeetCode-Problem/tree/master/0205-isomorphic-strings) |
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/kamranp03/LeetCode-Problem/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/kamranp03/LeetCode-Problem/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/kamranp03/LeetCode-Problem/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/kamranp03/LeetCode-Problem/tree/master/0692-top-k-frequent-words) |
 ## Dynamic Programming
@@ -691,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/kamranp03/LeetCode-Problem/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/kamranp03/LeetCode-Problem/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/kamranp03/LeetCode-Problem/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/kamranp03/LeetCode-Problem/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/kamranp03/LeetCode-Problem/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kamranp03/LeetCode-Problem/tree/master/0241-different-ways-to-add-parentheses) |
@@ -1163,6 +1168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/kamranp03/LeetCode-Problem/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/kamranp03/LeetCode-Problem/tree/master/0241-different-ways-to-add-parentheses) |
 ## Bracket Sequences
 |  |
@@ -1243,4 +1249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/kamranp03/LeetCode-Problem/tree/master/0300-longest-increasing-subsequence) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kamranp03/LeetCode-Problem/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
