@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kamranp03/LeetCode-Problem/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0416-partition-equal-subset-sum](https://github.com/kamranp03/LeetCode-Problem/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/kamranp03/LeetCode-Problem/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/kamranp03/LeetCode-Problem/tree/master/0506-relative-ranks) |
@@ -703,6 +704,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/kamranp03/LeetCode-Problem/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/kamranp03/LeetCode-Problem/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/kamranp03/LeetCode-Problem/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/kamranp03/LeetCode-Problem/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/kamranp03/LeetCode-Problem/tree/master/0486-predict-the-winner) |
 | [0518-coin-change-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/0678-valid-parenthesis-string) |
@@ -1239,6 +1241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/kamranp03/LeetCode-Problem/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/kamranp03/LeetCode-Problem/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
@@ -1253,4 +1256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/kamranp03/LeetCode-Problem/tree/master/0139-word-break) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/kamranp03/LeetCode-Problem/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
