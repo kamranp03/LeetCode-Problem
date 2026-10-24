@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/1140-stone-game-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kamranp03/LeetCode-Problem/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1219-path-with-maximum-gold](https://github.com/kamranp03/LeetCode-Problem/tree/master/1219-path-with-maximum-gold) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/kamranp03/LeetCode-Problem/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1260-shift-2d-grid](https://github.com/kamranp03/LeetCode-Problem/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kamranp03/LeetCode-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1310-xor-queries-of-a-subarray](https://github.com/kamranp03/LeetCode-Problem/tree/master/1310-xor-queries-of-a-subarray) |
@@ -499,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/kamranp03/LeetCode-Problem/tree/master/0973-k-closest-points-to-origin) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/kamranp03/LeetCode-Problem/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/kamranp03/LeetCode-Problem/tree/master/1051-height-checker) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/kamranp03/LeetCode-Problem/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1331-rank-transform-of-an-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kamranp03/LeetCode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kamranp03/LeetCode-Problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -725,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/kamranp03/LeetCode-Problem/tree/master/1143-longest-common-subsequence) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/kamranp03/LeetCode-Problem/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kamranp03/LeetCode-Problem/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/kamranp03/LeetCode-Problem/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kamranp03/LeetCode-Problem/tree/master/1510-stone-game-iv) |
@@ -890,6 +893,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/kamranp03/LeetCode-Problem/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/kamranp03/LeetCode-Problem/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/kamranp03/LeetCode-Problem/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kamranp03/LeetCode-Problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kamranp03/LeetCode-Problem/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/kamranp03/LeetCode-Problem/tree/master/1539-kth-missing-positive-number) |
