@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kamranp03/LeetCode-Problem/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kamranp03/LeetCode-Problem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kamranp03/LeetCode-Problem/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/kamranp03/LeetCode-Problem/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kamranp03/LeetCode-Problem/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kamranp03/LeetCode-Problem/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/3731-find-missing-elements) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kamranp03/LeetCode-Problem/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2965-find-missing-and-repeated-values](https://github.com/kamranp03/LeetCode-Problem/tree/master/2965-find-missing-and-repeated-values) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kamranp03/LeetCode-Problem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/kamranp03/LeetCode-Problem/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kamranp03/LeetCode-Problem/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2305-fair-distribution-of-cookies](https://github.com/kamranp03/LeetCode-Problem/tree/master/2305-fair-distribution-of-cookies) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/kamranp03/LeetCode-Problem/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kamranp03/LeetCode-Problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3665-twisted-mirror-path-count](https://github.com/kamranp03/LeetCode-Problem/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/kamranp03/LeetCode-Problem/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Monotonic Stack
 |  |
