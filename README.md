@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kamranp03/LeetCode-Problem/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/kamranp03/LeetCode-Problem/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/kamranp03/LeetCode-Problem/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/kamranp03/LeetCode-Problem/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kamranp03/LeetCode-Problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/kamranp03/LeetCode-Problem/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/kamranp03/LeetCode-Problem/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/kamranp03/LeetCode-Problem/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kamranp03/LeetCode-Problem/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/kamranp03/LeetCode-Problem/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/kamranp03/LeetCode-Problem/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/kamranp03/LeetCode-Problem/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kamranp03/LeetCode-Problem/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/kamranp03/LeetCode-Problem/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kamranp03/LeetCode-Problem/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kamranp03/LeetCode-Problem/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/kamranp03/LeetCode-Problem/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kamranp03/LeetCode-Problem/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/kamranp03/LeetCode-Problem/tree/master/2597-the-number-of-beautiful-subsets) |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/kamranp03/LeetCode-Problem/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kamranp03/LeetCode-Problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2405-optimal-partition-of-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/2405-optimal-partition-of-string) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/kamranp03/LeetCode-Problem/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kamranp03/LeetCode-Problem/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/kamranp03/LeetCode-Problem/tree/master/2597-the-number-of-beautiful-subsets) |
