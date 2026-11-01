@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/kamranp03/LeetCode-Problem/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/kamranp03/LeetCode-Problem/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/kamranp03/LeetCode-Problem/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/kamranp03/LeetCode-Problem/tree/master/0506-relative-ranks) |
@@ -963,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/kamranp03/LeetCode-Problem/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/kamranp03/LeetCode-Problem/tree/master/0319-bulb-switcher) |
 | [0445-add-two-numbers-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/kamranp03/LeetCode-Problem/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kamranp03/LeetCode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/kamranp03/LeetCode-Problem/tree/master/0779-k-th-symbol-in-grammar) |
