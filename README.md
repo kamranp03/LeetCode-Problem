@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/kamranp03/LeetCode-Problem/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2706-buy-two-chocolates](https://github.com/kamranp03/LeetCode-Problem/tree/master/2706-buy-two-chocolates) |
+| [2747-count-zero-request-servers](https://github.com/kamranp03/LeetCode-Problem/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/kamranp03/LeetCode-Problem/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/kamranp03/LeetCode-Problem/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/kamranp03/LeetCode-Problem/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2706-buy-two-chocolates](https://github.com/kamranp03/LeetCode-Problem/tree/master/2706-buy-two-chocolates) |
+| [2747-count-zero-request-servers](https://github.com/kamranp03/LeetCode-Problem/tree/master/2747-count-zero-request-servers) |
 | [2785-sort-vowels-in-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/2785-sort-vowels-in-a-string) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kamranp03/LeetCode-Problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -628,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/kamranp03/LeetCode-Problem/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/kamranp03/LeetCode-Problem/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2747-count-zero-request-servers](https://github.com/kamranp03/LeetCode-Problem/tree/master/2747-count-zero-request-servers) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/kamranp03/LeetCode-Problem/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kamranp03/LeetCode-Problem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kamranp03/LeetCode-Problem/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -800,6 +803,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/kamranp03/LeetCode-Problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1652-defuse-the-bomb](https://github.com/kamranp03/LeetCode-Problem/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kamranp03/LeetCode-Problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2747-count-zero-request-servers](https://github.com/kamranp03/LeetCode-Problem/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kamranp03/LeetCode-Problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kamranp03/LeetCode-Problem/tree/master/3090-maximum-length-substring-with-two-occurrences) |
