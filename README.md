@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/kamranp03/LeetCode-Problem/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1254-number-of-closed-islands](https://github.com/kamranp03/LeetCode-Problem/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/kamranp03/LeetCode-Problem/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/kamranp03/LeetCode-Problem/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kamranp03/LeetCode-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1310-xor-queries-of-a-subarray](https://github.com/kamranp03/LeetCode-Problem/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/1331-rank-transform-of-an-array) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1254-number-of-closed-islands](https://github.com/kamranp03/LeetCode-Problem/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/kamranp03/LeetCode-Problem/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kamranp03/LeetCode-Problem/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/kamranp03/LeetCode-Problem/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kamranp03/LeetCode-Problem/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/kamranp03/LeetCode-Problem/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/kamranp03/LeetCode-Problem/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/kamranp03/LeetCode-Problem/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/kamranp03/LeetCode-Problem/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/kamranp03/LeetCode-Problem/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/kamranp03/LeetCode-Problem/tree/master/1672-richest-customer-wealth) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kamranp03/LeetCode-Problem/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/kamranp03/LeetCode-Problem/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/kamranp03/LeetCode-Problem/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/kamranp03/LeetCode-Problem/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/kamranp03/LeetCode-Problem/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kamranp03/LeetCode-Problem/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/kamranp03/LeetCode-Problem/tree/master/1631-path-with-minimum-effort) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/kamranp03/LeetCode-Problem/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -494,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/kamranp03/LeetCode-Problem/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/kamranp03/LeetCode-Problem/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/kamranp03/LeetCode-Problem/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/kamranp03/LeetCode-Problem/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/kamranp03/LeetCode-Problem/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/kamranp03/LeetCode-Problem/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/kamranp03/LeetCode-Problem/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -656,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/kamranp03/LeetCode-Problem/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/0767-reorganize-string) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/kamranp03/LeetCode-Problem/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1267-count-servers-that-communicate](https://github.com/kamranp03/LeetCode-Problem/tree/master/1267-count-servers-that-communicate) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/kamranp03/LeetCode-Problem/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-number-of-good-pairs](https://github.com/kamranp03/LeetCode-Problem/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/kamranp03/LeetCode-Problem/tree/master/1704-determine-if-string-halves-are-alike) |
