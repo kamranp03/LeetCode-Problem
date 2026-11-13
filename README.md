@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/kamranp03/LeetCode-Problem/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/kamranp03/LeetCode-Problem/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kamranp03/LeetCode-Problem/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kamranp03/LeetCode-Problem/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/kamranp03/LeetCode-Problem/tree/master/1512-number-of-good-pairs) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kamranp03/LeetCode-Problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/kamranp03/LeetCode-Problem/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kamranp03/LeetCode-Problem/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kamranp03/LeetCode-Problem/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kamranp03/LeetCode-Problem/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -798,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/kamranp03/LeetCode-Problem/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/kamranp03/LeetCode-Problem/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/kamranp03/LeetCode-Problem/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/kamranp03/LeetCode-Problem/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Design
 |  |
 | ------- |
