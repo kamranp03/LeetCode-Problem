@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/kamranp03/LeetCode-Problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/kamranp03/LeetCode-Problem/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kamranp03/LeetCode-Problem/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/2390-removing-stars-from-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/2405-optimal-partition-of-string) |
 | [2409-count-days-spent-together](https://github.com/kamranp03/LeetCode-Problem/tree/master/2409-count-days-spent-together) |
@@ -838,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kamranp03/LeetCode-Problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kamranp03/LeetCode-Problem/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2073-time-needed-to-buy-tickets](https://github.com/kamranp03/LeetCode-Problem/tree/master/2073-time-needed-to-buy-tickets) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/kamranp03/LeetCode-Problem/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/2593-find-score-of-an-array-after-marking-all-elements) |
