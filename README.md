@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kamranp03/LeetCode-Problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/kamranp03/LeetCode-Problem/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/kamranp03/LeetCode-Problem/tree/master/1672-richest-customer-wealth) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/kamranp03/LeetCode-Problem/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kamranp03/LeetCode-Problem/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/kamranp03/LeetCode-Problem/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kamranp03/LeetCode-Problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/kamranp03/LeetCode-Problem/tree/master/1267-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/kamranp03/LeetCode-Problem/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/kamranp03/LeetCode-Problem/tree/master/1672-richest-customer-wealth) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/kamranp03/LeetCode-Problem/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kamranp03/LeetCode-Problem/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2965-find-missing-and-repeated-values](https://github.com/kamranp03/LeetCode-Problem/tree/master/2965-find-missing-and-repeated-values) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kamranp03/LeetCode-Problem/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kamranp03/LeetCode-Problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/kamranp03/LeetCode-Problem/tree/master/1552-magnetic-force-between-two-balls) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/kamranp03/LeetCode-Problem/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/kamranp03/LeetCode-Problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/kamranp03/LeetCode-Problem/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -692,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/kamranp03/LeetCode-Problem/tree/master/0973-k-closest-points-to-origin) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/kamranp03/LeetCode-Problem/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -714,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/kamranp03/LeetCode-Problem/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1631-path-with-minimum-effort](https://github.com/kamranp03/LeetCode-Problem/tree/master/1631-path-with-minimum-effort) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/kamranp03/LeetCode-Problem/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1882-process-tasks-using-servers](https://github.com/kamranp03/LeetCode-Problem/tree/master/1882-process-tasks-using-servers) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/kamranp03/LeetCode-Problem/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/kamranp03/LeetCode-Problem/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -728,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/kamranp03/LeetCode-Problem/tree/master/0973-k-closest-points-to-origin) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/kamranp03/LeetCode-Problem/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -977,6 +983,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kamranp03/LeetCode-Problem/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/kamranp03/LeetCode-Problem/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/kamranp03/LeetCode-Problem/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/kamranp03/LeetCode-Problem/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1872-stone-game-viii](https://github.com/kamranp03/LeetCode-Problem/tree/master/1872-stone-game-viii) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/kamranp03/LeetCode-Problem/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3312-sorted-gcd-pair-queries](https://github.com/kamranp03/LeetCode-Problem/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1116,6 +1123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/kamranp03/LeetCode-Problem/tree/master/1310-xor-queries-of-a-subarray) |
 | [1386-cinema-seat-allocation](https://github.com/kamranp03/LeetCode-Problem/tree/master/1386-cinema-seat-allocation) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/kamranp03/LeetCode-Problem/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
+| [1738-find-kth-largest-xor-coordinate-value](https://github.com/kamranp03/LeetCode-Problem/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [2305-fair-distribution-of-cookies](https://github.com/kamranp03/LeetCode-Problem/tree/master/2305-fair-distribution-of-cookies) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/kamranp03/LeetCode-Problem/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/kamranp03/LeetCode-Problem/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
