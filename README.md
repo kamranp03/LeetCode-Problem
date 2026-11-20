@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kamranp03/LeetCode-Problem/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/kamranp03/LeetCode-Problem/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kamranp03/LeetCode-Problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kamranp03/LeetCode-Problem/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/kamranp03/LeetCode-Problem/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kamranp03/LeetCode-Problem/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kamranp03/LeetCode-Problem/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kamranp03/LeetCode-Problem/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/kamranp03/LeetCode-Problem/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kamranp03/LeetCode-Problem/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/kamranp03/LeetCode-Problem/tree/master/3731-find-missing-elements) |
@@ -798,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kamranp03/LeetCode-Problem/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2305-fair-distribution-of-cookies](https://github.com/kamranp03/LeetCode-Problem/tree/master/2305-fair-distribution-of-cookies) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/kamranp03/LeetCode-Problem/tree/master/2597-the-number-of-beautiful-subsets) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kamranp03/LeetCode-Problem/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kamranp03/LeetCode-Problem/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3665-twisted-mirror-path-count](https://github.com/kamranp03/LeetCode-Problem/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/3693-climbing-stairs-ii) |
