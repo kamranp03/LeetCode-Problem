@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kamranp03/LeetCode-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1310-xor-queries-of-a-subarray](https://github.com/kamranp03/LeetCode-Problem/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kamranp03/LeetCode-Problem/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kamranp03/LeetCode-Problem/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kamranp03/LeetCode-Problem/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/kamranp03/LeetCode-Problem/tree/master/1386-cinema-seat-allocation) |
@@ -827,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/kamranp03/LeetCode-Problem/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kamranp03/LeetCode-Problem/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/kamranp03/LeetCode-Problem/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kamranp03/LeetCode-Problem/tree/master/1352-product-of-the-last-k-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -986,6 +988,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/1140-stone-game-ii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/kamranp03/LeetCode-Problem/tree/master/1310-xor-queries-of-a-subarray) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kamranp03/LeetCode-Problem/tree/master/1352-product-of-the-last-k-numbers) |
 | [1480-running-sum-of-1d-array](https://github.com/kamranp03/LeetCode-Problem/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/kamranp03/LeetCode-Problem/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/kamranp03/LeetCode-Problem/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -1027,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/kamranp03/LeetCode-Problem/tree/master/0991-broken-calculator) |
 | [1140-stone-game-ii](https://github.com/kamranp03/LeetCode-Problem/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kamranp03/LeetCode-Problem/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kamranp03/LeetCode-Problem/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/kamranp03/LeetCode-Problem/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/kamranp03/LeetCode-Problem/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/kamranp03/LeetCode-Problem/tree/master/1510-stone-game-iv) |
@@ -1210,6 +1214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/kamranp03/LeetCode-Problem/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/kamranp03/LeetCode-Problem/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/kamranp03/LeetCode-Problem/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kamranp03/LeetCode-Problem/tree/master/1352-product-of-the-last-k-numbers) |
 ## Minimax
 |  |
 | ------- |
